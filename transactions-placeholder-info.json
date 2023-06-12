@@ -1,0 +1,4552 @@
+[
+  {
+    "accountNumber": "2020 1603 9408 2",
+    "description": "Débito Direto Bunga",
+    "amount": 25.43,
+    "category": "Saúde",
+    "createdAt": "2021-08-20",
+    "modality": "6x c/juros",
+    "recipient": {
+      "swift": "CITIPTPX",
+      "iban": "PT50003506512541199953760",
+      "id": "Musanpoly"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 2",
+    "description": "Transferência Comvex",
+    "amount": 52.45,
+    "category": "Restauração",
+    "createdAt": "2021-02-11",
+    "modality": "3x c/juros",
+    "recipient": {
+      "swift": "BNPAPTPL",
+      "iban": "PT45003506517264364179459",
+      "id": "Endicil"
+    }
+  },
+  {
+    "accountNumber": "0892 1234 2021 2",
+    "description": "Débito Direto Gallaxia",
+    "amount": 57.37,
+    "category": "Restauração",
+    "createdAt": "2021-01-11",
+    "modality": "Débito",
+    "recipient": {
+      "swift": "BGALPTTG",
+      "iban": "PT16003506516139143821136",
+      "id": "Furnafix"
+    }
+  },
+  {
+    "accountNumber": "0892 1234 2021 2",
+    "description": "Compra Loja Quinex",
+    "amount": 17.73,
+    "category": "Entretenimento",
+    "createdAt": "2021-07-18",
+    "modality": "3x c/juros",
+    "recipient": {
+      "swift": "CDCTPTP2",
+      "iban": "PT83003506512451233796616",
+      "id": "Pyramis"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 2",
+    "description": "Compra Loja Zillactic",
+    "amount": 4.05,
+    "category": "Vestuário",
+    "createdAt": "2021-06-24",
+    "modality": "12x c/juros",
+    "recipient": {
+      "swift": "IBNBPTP1",
+      "iban": "PT45003506517264364179459",
+      "id": "Gology"
+    }
+  },
+  {
+    "accountNumber": "0121 0019 6520 0",
+    "description": "Pagamento Isonus",
+    "amount": 66.69,
+    "category": "Transportes",
+    "createdAt": "2021-01-14",
+    "modality": "6x c/juros",
+    "recipient": {
+      "swift": "BNPAPTPL",
+      "iban": "PT45003506517264364179459",
+      "id": "Netility"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 3",
+    "description": "Pagamento Wrapture",
+    "amount": 72.19,
+    "category": "Vestuário",
+    "createdAt": "2021-09-03",
+    "modality": "12x c/juros",
+    "recipient": {
+      "swift": "CDCTPTP2",
+      "iban": "PT86003506514389783173590",
+      "id": "Beadzza"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 2",
+    "description": "Compra Farmex",
+    "amount": 54.59,
+    "category": "Transportes",
+    "createdAt": "2021-09-02",
+    "modality": "Fim Mês",
+    "recipient": {
+      "swift": "CITIPTPX",
+      "iban": "PT83003506512451233796616",
+      "id": "Eclipsent"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 3",
+    "description": "Débito Direto Glukgluk",
+    "amount": 76.22,
+    "category": "Restauração",
+    "createdAt": "2021-05-07",
+    "modality": "Fim Mês",
+    "recipient": {
+      "swift": "CGDIPTPL",
+      "iban": "PT50003506512541199953760",
+      "id": "Translink"
+    }
+  },
+  {
+    "accountNumber": "0892 1234 2021 2",
+    "description": "Pagamento Apexia",
+    "amount": 62.12,
+    "category": "Casa",
+    "createdAt": "2021-11-09",
+    "modality": "Débito",
+    "recipient": {
+      "swift": "CDCTPTP2",
+      "iban": "PT50003506512541199953760",
+      "id": "Genmex"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 3",
+    "description": "Compra Radiantix",
+    "amount": 7.65,
+    "category": "Casa",
+    "createdAt": "2021-08-28",
+    "modality": "12x c/juros",
+    "recipient": {
+      "swift": "BNPAPTPL",
+      "iban": "PT50003506512541199953760",
+      "id": "Zipak"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 3",
+    "description": "Compra Hometown",
+    "amount": 26.18,
+    "category": "Transportes",
+    "createdAt": "2021-11-15",
+    "modality": "6x c/juros",
+    "recipient": {
+      "swift": "BESCPTPL",
+      "iban": "PT50003506512541199953760",
+      "id": "Duoflex"
+    }
+  },
+  {
+    "accountNumber": "0892 1234 2021 2",
+    "description": "Compra Candecor",
+    "amount": 71.63,
+    "category": "Entretenimento",
+    "createdAt": "2021-07-12",
+    "modality": "3x c/juros",
+    "recipient": {
+      "swift": "CITIPTPX",
+      "iban": "PT86003506514389783173590",
+      "id": "Ramjob"
+    }
+  },
+  {
+    "accountNumber": "0892 1234 2021 2",
+    "description": "Pagamento Terrago",
+    "amount": 63.98,
+    "category": "Restauração",
+    "createdAt": "2021-04-22",
+    "modality": "6x c/juros",
+    "recipient": {
+      "swift": "BGALPTTG",
+      "iban": "PT45003506517264364179459",
+      "id": "Bezal"
+    }
+  },
+  {
+    "accountNumber": "0121 0019 6520 0",
+    "description": "Débito Direto Zenthall",
+    "amount": 34.78,
+    "category": "Saúde",
+    "createdAt": "2021-10-10",
+    "modality": "12x c/juros",
+    "recipient": {
+      "swift": "BGALPTTG",
+      "iban": "PT45003506517264364179459",
+      "id": "Interodeo"
+    }
+  },
+  {
+    "accountNumber": "0892 1234 2021 2",
+    "description": "Pagamento Flum",
+    "amount": 14.24,
+    "category": "Saúde",
+    "createdAt": "2021-09-01",
+    "modality": "3x c/juros",
+    "recipient": {
+      "swift": "CDCTPTP2",
+      "iban": "PT86003506514389783173590",
+      "id": "Mobildata"
+    }
+  },
+  {
+    "accountNumber": "0892 1234 2021 2",
+    "description": "Transferência Tri@Tribalog",
+    "amount": 74.61,
+    "category": "Entretenimento",
+    "createdAt": "2021-06-15",
+    "modality": "12x c/juros",
+    "recipient": {
+      "swift": "CDCTPTP2",
+      "iban": "PT45003506517264364179459",
+      "id": "Zialactic"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 2",
+    "description": "Transferência Acumentor",
+    "amount": 19.09,
+    "category": "Saúde",
+    "createdAt": "2021-08-24",
+    "modality": "Débito",
+    "recipient": {
+      "swift": "IBNBPTP1",
+      "iban": "PT50003506512541199953760",
+      "id": "Zaggle"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 3",
+    "description": "Compra Voratak",
+    "amount": 41.18,
+    "category": "Vestuário",
+    "createdAt": "2021-10-26",
+    "modality": "6x c/juros",
+    "recipient": {
+      "swift": "BNPAPTPL",
+      "iban": "PT45003506517264364179459",
+      "id": "Eweville"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 3",
+    "description": "Pagamento Xeronk",
+    "amount": 70.28,
+    "category": "Restauração",
+    "createdAt": "2021-01-09",
+    "modality": "Fim Mês",
+    "recipient": {
+      "swift": "CGDIPTPL",
+      "iban": "PT45003506517264364179459",
+      "id": "Zenolux"
+    }
+  },
+  {
+    "accountNumber": "0892 1234 2021 2",
+    "description": "Transferência Euron",
+    "amount": 47.76,
+    "category": "Casa",
+    "createdAt": "2021-04-05",
+    "modality": "Débito",
+    "recipient": {
+      "swift": "BESCPTPL",
+      "iban": "PT83003506512451233796616",
+      "id": "Amtas"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 3",
+    "description": "Transferência Opticall",
+    "amount": 45.22,
+    "category": "Restauração",
+    "createdAt": "2021-01-23",
+    "modality": "12x c/juros",
+    "recipient": {
+      "swift": "CDCTPTP2",
+      "iban": "PT45003506517264364179459",
+      "id": "Firewax"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 3",
+    "description": "Transferência Zilphur",
+    "amount": 54.64,
+    "category": "Transportes",
+    "createdAt": "2021-03-31",
+    "modality": "Débito",
+    "recipient": {
+      "swift": "BNPAPTPL",
+      "iban": "PT45003506517264364179459",
+      "id": "Cyclonica"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 2",
+    "description": "Compra Newcube",
+    "amount": 66.04,
+    "category": "Vestuário",
+    "createdAt": "2021-10-03",
+    "modality": "6x c/juros",
+    "recipient": {
+      "swift": "BNPAPTPL",
+      "iban": "PT86003506514389783173590",
+      "id": "Valpreal"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 3",
+    "description": "Pagamento Isologix",
+    "amount": 47.03,
+    "category": "Saúde",
+    "createdAt": "2021-06-20",
+    "modality": "6x c/juros",
+    "recipient": {
+      "swift": "BESCPTPL",
+      "iban": "PT83003506512451233796616",
+      "id": "Zboo"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 2",
+    "description": "Carregamento Ovolo",
+    "amount": 24.22,
+    "category": "Transportes",
+    "createdAt": "2021-05-23",
+    "modality": "3x c/juros",
+    "recipient": {
+      "swift": "BGALPTTG",
+      "iban": "PT45003506517264364179459",
+      "id": "Xurban"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 2",
+    "description": "Compra Codax",
+    "amount": 18.51,
+    "category": "Transportes",
+    "createdAt": "2021-07-16",
+    "modality": "3x c/juros",
+    "recipient": {
+      "swift": "CGDIPTPL",
+      "iban": "PT45003506517264364179459",
+      "id": "Fitcore"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 3",
+    "description": "Débito Direto Anarco",
+    "amount": 15.26,
+    "category": "Vestuário",
+    "createdAt": "2021-12-06",
+    "modality": "Fim Mês",
+    "recipient": {
+      "swift": "BGALPTTG",
+      "iban": "PT50003506512541199953760",
+      "id": "Geeknet"
+    }
+  },
+  {
+    "accountNumber": "0121 0019 6520 0",
+    "description": "Carregamento Futurize",
+    "amount": 11.86,
+    "category": "Entretenimento",
+    "createdAt": "2021-07-28",
+    "modality": "Fim Mês",
+    "recipient": {
+      "swift": "CGDIPTPL",
+      "iban": "PT16003506516139143821136",
+      "id": "Exotechno"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 3",
+    "description": "Compra Comvey",
+    "amount": 30.52,
+    "category": "Saúde",
+    "createdAt": "2021-08-04",
+    "modality": "3x c/juros",
+    "recipient": {
+      "swift": "CGDIPTPL",
+      "iban": "PT45003506517264364179459",
+      "id": "Tropolis"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 2",
+    "description": "Transferência Xyqag",
+    "amount": 28.55,
+    "category": "Restauração",
+    "createdAt": "2021-03-12",
+    "modality": "Débito",
+    "recipient": {
+      "swift": "CDCTPTP2",
+      "iban": "PT45003506517264364179459",
+      "id": "Xsports"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 3",
+    "description": "Compra Decratex",
+    "amount": 0.04,
+    "category": "Saúde",
+    "createdAt": "2021-11-21",
+    "modality": "12x c/juros",
+    "recipient": {
+      "swift": "BESCPTPL",
+      "iban": "PT45003506517264364179459",
+      "id": "Sentia"
+    }
+  },
+  {
+    "accountNumber": "0121 0019 6520 0",
+    "description": "Pagamento Prowaste",
+    "amount": 31.72,
+    "category": "Entretenimento",
+    "createdAt": "2021-11-13",
+    "modality": "12x c/juros",
+    "recipient": {
+      "swift": "BESCPTPL",
+      "iban": "PT45003506517264364179459",
+      "id": "Premiant"
+    }
+  },
+  {
+    "accountNumber": "0892 1234 2021 2",
+    "description": "Compra Loja Klugger",
+    "amount": 69.55,
+    "category": "Saúde",
+    "createdAt": "2021-10-10",
+    "modality": "12x c/juros",
+    "recipient": {
+      "swift": "BNPAPTPL",
+      "iban": "PT16003506516139143821136",
+      "id": "Ludak"
+    }
+  },
+  {
+    "accountNumber": "0121 0019 6520 0",
+    "description": "Transferência Viocular",
+    "amount": 2.01,
+    "category": "Saúde",
+    "createdAt": "2021-08-09",
+    "modality": "3x c/juros",
+    "recipient": {
+      "swift": "CDCTPTP2",
+      "iban": "PT50003506512541199953760",
+      "id": "Extremo"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 3",
+    "description": "Débito Direto Dancerity",
+    "amount": 5.33,
+    "category": "Restauração",
+    "createdAt": "2021-11-29",
+    "modality": "Fim Mês",
+    "recipient": {
+      "swift": "BESCPTPL",
+      "iban": "PT50003506512541199953760",
+      "id": "Handshake"
+    }
+  },
+  {
+    "accountNumber": "0892 1234 2021 2",
+    "description": "Transferência Olympix",
+    "amount": 66.76,
+    "category": "Restauração",
+    "createdAt": "2021-04-27",
+    "modality": "3x c/juros",
+    "recipient": {
+      "swift": "IBNBPTP1",
+      "iban": "PT45003506517264364179459",
+      "id": "Bolax"
+    }
+  },
+  {
+    "accountNumber": "0892 1234 2021 2",
+    "description": "Compra Portica",
+    "amount": 54.11,
+    "category": "Entretenimento",
+    "createdAt": "2021-12-14",
+    "modality": "12x c/juros",
+    "recipient": {
+      "swift": "BGALPTTG",
+      "iban": "PT50003506512541199953760",
+      "id": "Biolive"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 3",
+    "description": "Compra Loja Visualix",
+    "amount": 0.03,
+    "category": "Vestuário",
+    "createdAt": "2021-06-24",
+    "modality": "3x c/juros",
+    "recipient": {
+      "swift": "BNPAPTPL",
+      "iban": "PT16003506516139143821136",
+      "id": "Farmage"
+    }
+  },
+  {
+    "accountNumber": "0121 0019 6520 0",
+    "description": "Transferência Zilladyne",
+    "amount": 46.41,
+    "category": "Casa",
+    "createdAt": "2021-10-23",
+    "modality": "6x c/juros",
+    "recipient": {
+      "swift": "CGDIPTPL",
+      "iban": "PT50003506512541199953760",
+      "id": "Comverges"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 2",
+    "description": "Compra Concility",
+    "amount": 55.94,
+    "category": "Saúde",
+    "createdAt": "2021-10-25",
+    "modality": "Fim Mês",
+    "recipient": {
+      "swift": "CDCTPTP2",
+      "iban": "PT86003506514389783173590",
+      "id": "Greeker"
+    }
+  },
+  {
+    "accountNumber": "0121 0019 6520 0",
+    "description": "Compra Loja Accel",
+    "amount": 25.13,
+    "category": "Casa",
+    "createdAt": "2021-08-28",
+    "modality": "3x c/juros",
+    "recipient": {
+      "swift": "CITIPTPX",
+      "iban": "PT45003506517264364179459",
+      "id": "Ecolight"
+    }
+  },
+  {
+    "accountNumber": "0892 1234 2021 2",
+    "description": "Débito Direto Vantage",
+    "amount": 64.45,
+    "category": "Entretenimento",
+    "createdAt": "2021-01-23",
+    "modality": "12x c/juros",
+    "recipient": {
+      "swift": "BNPAPTPL",
+      "iban": "PT50003506512541199953760",
+      "id": "Podunk"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 2",
+    "description": "Transferência Isbol",
+    "amount": 2.67,
+    "category": "Transportes",
+    "createdAt": "2021-03-24",
+    "modality": "12x c/juros",
+    "recipient": {
+      "swift": "CGDIPTPL",
+      "iban": "PT16003506516139143821136",
+      "id": "Amril"
+    }
+  },
+  {
+    "accountNumber": "0892 1234 2021 2",
+    "description": "Compra Sulfax",
+    "amount": 55.55,
+    "category": "Saúde",
+    "createdAt": "2021-11-12",
+    "modality": "Débito",
+    "recipient": {
+      "swift": "IBNBPTP1",
+      "iban": "PT45003506517264364179459",
+      "id": "Zorromop"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 2",
+    "description": "Compra Metroz",
+    "amount": 68.77,
+    "category": "Saúde",
+    "createdAt": "2021-06-22",
+    "modality": "Débito",
+    "recipient": {
+      "swift": "CITIPTPX",
+      "iban": "PT86003506514389783173590",
+      "id": "Chorizon"
+    }
+  },
+  {
+    "accountNumber": "0121 0019 6520 0",
+    "description": "Transferência Quadeebo",
+    "amount": 35.39,
+    "category": "Vestuário",
+    "createdAt": "2021-09-15",
+    "modality": "3x c/juros",
+    "recipient": {
+      "swift": "CDCTPTP2",
+      "iban": "PT45003506517264364179459",
+      "id": "Homelux"
+    }
+  },
+  {
+    "accountNumber": "0892 1234 2021 2",
+    "description": "Pagamento Eplosion",
+    "amount": 15.41,
+    "category": "Casa",
+    "createdAt": "2021-04-18",
+    "modality": "12x c/juros",
+    "recipient": {
+      "swift": "CDCTPTP2",
+      "iban": "PT45003506517264364179459",
+      "id": "Satiance"
+    }
+  },
+  {
+    "accountNumber": "0121 0019 6520 0",
+    "description": "Transferência Exerta",
+    "amount": 21.86,
+    "category": "Vestuário",
+    "createdAt": "2021-08-19",
+    "modality": "Débito",
+    "recipient": {
+      "swift": "IBNBPTP1",
+      "iban": "PT16003506516139143821136",
+      "id": "Polarium"
+    }
+  },
+  {
+    "accountNumber": "0121 0019 6520 0",
+    "description": "Compra Bluplanet",
+    "amount": 44.25,
+    "category": "Transportes",
+    "createdAt": "2021-12-08",
+    "modality": "6x c/juros",
+    "recipient": {
+      "swift": "BGALPTTG",
+      "iban": "PT50003506512541199953760",
+      "id": "Kiosk"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 2",
+    "description": "Compra Sureplex",
+    "amount": 33.95,
+    "category": "Entretenimento",
+    "createdAt": "2021-01-20",
+    "modality": "Débito",
+    "recipient": {
+      "swift": "BGALPTTG",
+      "iban": "PT45003506517264364179459",
+      "id": "Jumpstack"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 3",
+    "description": "Carregamento Interloo",
+    "amount": 112.95,
+    "category": "Vestuário",
+    "createdAt": "2021-02-02",
+    "modality": "Débito",
+    "recipient": {
+      "swift": "BGALPTTG",
+      "iban": "PT45003506517264364179459",
+      "id": "Cinesanct"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 2",
+    "description": "Transferência Memora",
+    "amount": 70.74,
+    "category": "Vestuário",
+    "createdAt": "2021-06-05",
+    "modality": "Débito",
+    "recipient": {
+      "swift": "CITIPTPX",
+      "iban": "PT16003506516139143821136",
+      "id": "Olucore"
+    }
+  },
+  {
+    "accountNumber": "0121 0019 6520 0",
+    "description": "Carregamento Qaboos",
+    "amount": 45.81,
+    "category": "Transportes",
+    "createdAt": "2021-10-13",
+    "modality": "Débito",
+    "recipient": {
+      "swift": "CDCTPTP2",
+      "iban": "PT45003506517264364179459",
+      "id": "Anixang"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 2",
+    "description": "Compra Loja Injoy",
+    "amount": 59.09,
+    "category": "Casa",
+    "createdAt": "2021-05-07",
+    "modality": "6x c/juros",
+    "recipient": {
+      "swift": "CDCTPTP2",
+      "iban": "PT45003506517264364179459",
+      "id": "Magnemo"
+    }
+  },
+  {
+    "accountNumber": "0892 1234 2021 2",
+    "description": "Débito Direto Ebidco",
+    "amount": 40.56,
+    "category": "Restauração",
+    "createdAt": "2021-08-26",
+    "modality": "6x c/juros",
+    "recipient": {
+      "swift": "CGDIPTPL",
+      "iban": "PT16003506516139143821136",
+      "id": "Comdom"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 3",
+    "description": "Compra Loja Pigzart",
+    "amount": 3.59,
+    "category": "Vestuário",
+    "createdAt": "2021-01-08",
+    "modality": "Débito",
+    "recipient": {
+      "swift": "CGDIPTPL",
+      "iban": "PT86003506514389783173590",
+      "id": "Pheast"
+    }
+  },
+  {
+    "accountNumber": "0121 0019 6520 0",
+    "description": "Pagamento Pearlessa",
+    "amount": 48.13,
+    "category": "Transportes",
+    "createdAt": "2021-04-11",
+    "modality": "3x c/juros",
+    "recipient": {
+      "swift": "BNPAPTPL",
+      "iban": "PT16003506516139143821136",
+      "id": "Sunclipse"
+    }
+  },
+  {
+    "accountNumber": "0121 0019 6520 0",
+    "description": "Carregamento Trollery",
+    "amount": 8.51,
+    "category": "Casa",
+    "createdAt": "2021-06-11",
+    "modality": "3x c/juros",
+    "recipient": {
+      "swift": "CGDIPTPL",
+      "iban": "PT45003506517264364179459",
+      "id": "Oronoko"
+    }
+  },
+  {
+    "accountNumber": "0892 1234 2021 2",
+    "description": "Compra Columella",
+    "amount": 0.57,
+    "category": "Entretenimento",
+    "createdAt": "2021-03-18",
+    "modality": "Fim Mês",
+    "recipient": {
+      "swift": "BESCPTPL",
+      "iban": "PT50003506512541199953760",
+      "id": "Kineticut"
+    }
+  },
+  {
+    "accountNumber": "0121 0019 6520 0",
+    "description": "Compra Loja Marqet",
+    "amount": 24.82,
+    "category": "Transportes",
+    "createdAt": "2021-05-19",
+    "modality": "3x c/juros",
+    "recipient": {
+      "swift": "BGALPTTG",
+      "iban": "PT45003506517264364179459",
+      "id": "Enormo"
+    }
+  },
+  {
+    "accountNumber": "0121 0019 6520 0",
+    "description": "Compra Ziggles",
+    "amount": 39.34,
+    "category": "Casa",
+    "createdAt": "2021-11-16",
+    "modality": "3x c/juros",
+    "recipient": {
+      "swift": "IBNBPTP1",
+      "iban": "PT16003506516139143821136",
+      "id": "Koogle"
+    }
+  },
+  {
+    "accountNumber": "0121 0019 6520 0",
+    "description": "Pagamento Otherway",
+    "amount": 22.11,
+    "category": "Saúde",
+    "createdAt": "2021-06-29",
+    "modality": "6x c/juros",
+    "recipient": {
+      "swift": "IBNBPTP1",
+      "iban": "PT50003506512541199953760",
+      "id": "Atgen"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 3",
+    "description": "Carregamento Icology",
+    "amount": 9.91,
+    "category": "Casa",
+    "createdAt": "2021-09-09",
+    "modality": "Fim Mês",
+    "recipient": {
+      "swift": "BESCPTPL",
+      "iban": "PT50003506512541199953760",
+      "id": "Geekus"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 2",
+    "description": "Compra Dragbot",
+    "amount": 69.49,
+    "category": "Casa",
+    "createdAt": "2021-03-29",
+    "modality": "Fim Mês",
+    "recipient": {
+      "swift": "BGALPTTG",
+      "iban": "PT45003506517264364179459",
+      "id": "Anivet"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 2",
+    "description": "Débito Direto Eventix",
+    "amount": 59.14,
+    "category": "Restauração",
+    "createdAt": "2021-05-16",
+    "modality": "12x c/juros",
+    "recipient": {
+      "swift": "CITIPTPX",
+      "iban": "PT45003506517264364179459",
+      "id": "Frolix"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 2",
+    "description": "Carregamento Zensus",
+    "amount": 41.42,
+    "category": "Casa",
+    "createdAt": "2021-08-11",
+    "modality": "Débito",
+    "recipient": {
+      "swift": "CGDIPTPL",
+      "iban": "PT50003506512541199953760",
+      "id": "Toyletry"
+    }
+  },
+  {
+    "accountNumber": "0892 1234 2021 2",
+    "description": "Compra Isologica",
+    "amount": 61.14,
+    "category": "Entretenimento",
+    "createdAt": "2021-03-06",
+    "modality": "Débito",
+    "recipient": {
+      "swift": "BGALPTTG",
+      "iban": "PT83003506512451233796616",
+      "id": "Imaginart"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 2",
+    "description": "Compra Loja Comtour",
+    "amount": 58.74,
+    "category": "Transportes",
+    "createdAt": "2021-11-04",
+    "modality": "Débito",
+    "recipient": {
+      "swift": "CITIPTPX",
+      "iban": "PT45003506517264364179459",
+      "id": "Acium"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 2",
+    "description": "Débito Direto Gluid",
+    "amount": 39.64,
+    "category": "Restauração",
+    "createdAt": "2021-05-14",
+    "modality": "3x c/juros",
+    "recipient": {
+      "swift": "CDCTPTP2",
+      "iban": "PT45003506517264364179459",
+      "id": "Artworlds"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 2",
+    "description": "Débito Direto Enersol",
+    "amount": 10.39,
+    "category": "Restauração",
+    "createdAt": "2021-09-13",
+    "modality": "3x c/juros",
+    "recipient": {
+      "swift": "BNPAPTPL",
+      "iban": "PT45003506517264364179459",
+      "id": "Valreda"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 2",
+    "description": "Débito Direto Netagy",
+    "amount": 1.47,
+    "category": "Entretenimento",
+    "createdAt": "2021-03-10",
+    "modality": "6x c/juros",
+    "recipient": {
+      "swift": "BGALPTTG",
+      "iban": "PT50003506512541199953760",
+      "id": "Ersum"
+    }
+  },
+  {
+    "accountNumber": "0121 0019 6520 0",
+    "description": "Débito Direto Senmao",
+    "amount": 17.86,
+    "category": "Vestuário",
+    "createdAt": "2021-03-30",
+    "modality": "12x c/juros",
+    "recipient": {
+      "swift": "CGDIPTPL",
+      "iban": "PT83003506512451233796616",
+      "id": "Gadtron"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 3",
+    "description": "Pagamento Uniworld",
+    "amount": 36.72,
+    "category": "Vestuário",
+    "createdAt": "2021-07-03",
+    "modality": "3x c/juros",
+    "recipient": {
+      "swift": "IBNBPTP1",
+      "iban": "PT50003506512541199953760",
+      "id": "Techmania"
+    }
+  },
+  {
+    "accountNumber": "0892 1234 2021 2",
+    "description": "Compra Loja Sequitur",
+    "amount": 7.54,
+    "category": "Vestuário",
+    "createdAt": "2021-01-10",
+    "modality": "Débito",
+    "recipient": {
+      "swift": "CITIPTPX",
+      "iban": "PT45003506517264364179459",
+      "id": "Zillacon"
+    }
+  },
+  {
+    "accountNumber": "0892 1234 2021 2",
+    "description": "Transferência Adornica",
+    "amount": 14.32,
+    "category": "Transportes",
+    "createdAt": "2021-02-17",
+    "modality": "Fim Mês",
+    "recipient": {
+      "swift": "CDCTPTP2",
+      "iban": "PT16003506516139143821136",
+      "id": "Tellifly"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 3",
+    "description": "Compra Gaptec",
+    "amount": 23.51,
+    "category": "Vestuário",
+    "createdAt": "2021-06-09",
+    "modality": "Débito",
+    "recipient": {
+      "swift": "IBNBPTP1",
+      "iban": "PT86003506514389783173590",
+      "id": "Magmina"
+    }
+  },
+  {
+    "accountNumber": "0121 0019 6520 0",
+    "description": "Compra Loja Zerbina",
+    "amount": 74.06,
+    "category": "Casa",
+    "createdAt": "2021-06-26",
+    "modality": "6x c/juros",
+    "recipient": {
+      "swift": "BESCPTPL",
+      "iban": "PT83003506512451233796616",
+      "id": "Maximind"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 2",
+    "description": "Transferência Uncorp",
+    "amount": 17.87,
+    "category": "Casa",
+    "createdAt": "2021-05-04",
+    "modality": "3x c/juros",
+    "recipient": {
+      "swift": "BGALPTTG",
+      "iban": "PT50003506512541199953760",
+      "id": "Zaggles"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 3",
+    "description": "Transferência Exoplode",
+    "amount": 32.83,
+    "category": "Saúde",
+    "createdAt": "2021-08-12",
+    "modality": "Débito",
+    "recipient": {
+      "swift": "CGDIPTPL",
+      "iban": "PT45003506517264364179459",
+      "id": "Songlines"
+    }
+  },
+  {
+    "accountNumber": "0121 0019 6520 0",
+    "description": "Transferência Keengen",
+    "amount": 38.62,
+    "category": "Casa",
+    "createdAt": "2021-08-18",
+    "modality": "Fim Mês",
+    "recipient": {
+      "swift": "IBNBPTP1",
+      "iban": "PT45003506517264364179459",
+      "id": "Tersanki"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 3",
+    "description": "Pagamento Austech",
+    "amount": 66.64,
+    "category": "Casa",
+    "createdAt": "2021-11-22",
+    "modality": "Fim Mês",
+    "recipient": {
+      "swift": "CITIPTPX",
+      "iban": "PT50003506512541199953760",
+      "id": "Uxmox"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 2",
+    "description": "Carregamento Acruex",
+    "amount": 70.19,
+    "category": "Transportes",
+    "createdAt": "2021-06-01",
+    "modality": "6x c/juros",
+    "recipient": {
+      "swift": "CGDIPTPL",
+      "iban": "PT86003506514389783173590",
+      "id": "Zidant"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 2",
+    "description": "Transferência Sensate",
+    "amount": 41.11,
+    "category": "Entretenimento",
+    "createdAt": "2021-07-17",
+    "modality": "12x c/juros",
+    "recipient": {
+      "swift": "CGDIPTPL",
+      "iban": "PT45003506517264364179459",
+      "id": "Quility"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 2",
+    "description": "Pagamento Zentia",
+    "amount": 52.52,
+    "category": "Saúde",
+    "createdAt": "2021-06-04",
+    "modality": "Débito",
+    "recipient": {
+      "swift": "CITIPTPX",
+      "iban": "PT86003506514389783173590",
+      "id": "Omnigog"
+    }
+  },
+  {
+    "accountNumber": "0892 1234 2021 2",
+    "description": "Compra Loja Solaren",
+    "amount": 46.67,
+    "category": "Casa",
+    "createdAt": "2021-08-01",
+    "modality": "6x c/juros",
+    "recipient": {
+      "swift": "BGALPTTG",
+      "iban": "PT45003506517264364179459",
+      "id": "Accruex"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 3",
+    "description": "Pagamento Aquoavo",
+    "amount": 4.87,
+    "category": "Saúde",
+    "createdAt": "2021-10-05",
+    "modality": "3x c/juros",
+    "recipient": {
+      "swift": "BNPAPTPL",
+      "iban": "PT45003506517264364179459",
+      "id": "Besto"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 3",
+    "description": "Carregamento Cedward",
+    "amount": 20.59,
+    "category": "Transportes",
+    "createdAt": "2021-01-30",
+    "modality": "Fim Mês",
+    "recipient": {
+      "swift": "BGALPTTG",
+      "iban": "PT45003506517264364179459",
+      "id": "Harmoney"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 3",
+    "description": "Carregamento Inear",
+    "amount": 57.37,
+    "category": "Restauração",
+    "createdAt": "2021-10-21",
+    "modality": "12x c/juros",
+    "recipient": {
+      "swift": "BNPAPTPL",
+      "iban": "PT86003506514389783173590",
+      "id": "Xanide"
+    }
+  },
+  {
+    "accountNumber": "0892 1234 2021 2",
+    "description": "Transferência Bedder",
+    "amount": 50.59,
+    "category": "Casa",
+    "createdAt": "2021-09-28",
+    "modality": "6x c/juros",
+    "recipient": {
+      "swift": "CGDIPTPL",
+      "iban": "PT45003506517264364179459",
+      "id": "Niquent"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 3",
+    "description": "Compra Loja Calcu",
+    "amount": 100.04,
+    "category": "Casa",
+    "createdAt": "2021-11-12",
+    "modality": "12x c/juros",
+    "recipient": {
+      "swift": "CITIPTPX",
+      "iban": "PT45003506517264364179459",
+      "id": "Aquafire"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 3",
+    "description": "Compra Suretech",
+    "amount": 49.77,
+    "category": "Entretenimento",
+    "createdAt": "2021-07-06",
+    "modality": "3x c/juros",
+    "recipient": {
+      "swift": "BESCPTPL",
+      "iban": "PT50003506512541199953760",
+      "id": "Exoblue"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 2",
+    "description": "Compra Pasturia",
+    "amount": 19.92,
+    "category": "Entretenimento",
+    "createdAt": "2021-09-24",
+    "modality": "Fim Mês",
+    "recipient": {
+      "swift": "BNPAPTPL",
+      "iban": "PT45003506517264364179459",
+      "id": "Talae"
+    }
+  },
+  {
+    "accountNumber": "0892 1234 2021 2",
+    "description": "Pagamento Gracker",
+    "amount": 18.12,
+    "category": "Transportes",
+    "createdAt": "2021-08-13",
+    "modality": "Débito",
+    "recipient": {
+      "swift": "CITIPTPX",
+      "iban": "PT50003506512541199953760",
+      "id": "Bugsall"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 2",
+    "description": "Transferência Mantrix",
+    "amount": 35.18,
+    "category": "Restauração",
+    "createdAt": "2021-02-13",
+    "modality": "12x c/juros",
+    "recipient": {
+      "swift": "BGALPTTG",
+      "iban": "PT45003506517264364179459",
+      "id": "Remotion"
+    }
+  },
+  {
+    "accountNumber": "0121 0019 6520 0",
+    "description": "Transferência Talendula",
+    "amount": 6.28,
+    "category": "Restauração",
+    "createdAt": "2021-12-02",
+    "modality": "Fim Mês",
+    "recipient": {
+      "swift": "CITIPTPX",
+      "iban": "PT83003506512451233796616",
+      "id": "Gink"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 2",
+    "description": "Pagamento Musaphics",
+    "amount": 20.07,
+    "category": "Casa",
+    "createdAt": "2021-12-20",
+    "modality": "Débito",
+    "recipient": {
+      "swift": "CGDIPTPL",
+      "iban": "PT83003506512451233796616",
+      "id": "Fiberox"
+    }
+  },
+  {
+    "accountNumber": "0892 1234 2021 2",
+    "description": "Compra Loja Makingway",
+    "amount": 60.26,
+    "category": "Casa",
+    "createdAt": "2021-06-20",
+    "modality": "12x c/juros",
+    "recipient": {
+      "swift": "CITIPTPX",
+      "iban": "PT86003506514389783173590",
+      "id": "Tingles"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 3",
+    "description": "Carregamento Maineland",
+    "amount": 31.55,
+    "category": "Casa",
+    "createdAt": "2021-04-29",
+    "modality": "Débito",
+    "recipient": {
+      "swift": "CITIPTPX",
+      "iban": "PT16003506516139143821136",
+      "id": "Rameon"
+    }
+  },
+  {
+    "accountNumber": "0892 1234 2021 2",
+    "description": "Compra Loja Emtrac",
+    "amount": 16.41,
+    "category": "Casa",
+    "createdAt": "2021-08-18",
+    "modality": "12x c/juros",
+    "recipient": {
+      "swift": "BNPAPTPL",
+      "iban": "PT45003506517264364179459",
+      "id": "Uni"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 3",
+    "description": "Compra Loja Zanymax",
+    "amount": 22.52,
+    "category": "Vestuário",
+    "createdAt": "2021-02-03",
+    "modality": "Débito",
+    "recipient": {
+      "swift": "CDCTPTP2",
+      "iban": "PT16003506516139143821136",
+      "id": "Fishland"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 2",
+    "description": "Débito Direto Paprikut",
+    "amount": 75.55,
+    "category": "Restauração",
+    "createdAt": "2021-02-11",
+    "modality": "6x c/juros",
+    "recipient": {
+      "swift": "CGDIPTPL",
+      "iban": "PT50003506512541199953760",
+      "id": "Speedbolt"
+    }
+  },
+  {
+    "accountNumber": "0892 1234 2021 2",
+    "description": "Compra Digitalus",
+    "amount": 39.06,
+    "category": "Vestuário",
+    "createdAt": "2021-05-16",
+    "modality": "Fim Mês",
+    "recipient": {
+      "swift": "BNPAPTPL",
+      "iban": "PT45003506517264364179459",
+      "id": "Earwax"
+    }
+  },
+  {
+    "accountNumber": "0121 0019 6520 0",
+    "description": "Pagamento Virva",
+    "amount": 2.54,
+    "category": "Vestuário",
+    "createdAt": "2021-11-07",
+    "modality": "3x c/juros",
+    "recipient": {
+      "swift": "BESCPTPL",
+      "iban": "PT86003506514389783173590",
+      "id": "Irack"
+    }
+  },
+  {
+    "accountNumber": "0121 0019 6520 0",
+    "description": "Débito Direto Apex",
+    "amount": 22.34,
+    "category": "Casa",
+    "createdAt": "2021-10-05",
+    "modality": "6x c/juros",
+    "recipient": {
+      "swift": "BGALPTTG",
+      "iban": "PT86003506514389783173590",
+      "id": "Undertap"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 3",
+    "description": "Pagamento Affluex",
+    "amount": 22.47,
+    "category": "Restauração",
+    "createdAt": "2021-04-27",
+    "modality": "Fim Mês",
+    "recipient": {
+      "swift": "CDCTPTP2",
+      "iban": "PT86003506514389783173590",
+      "id": "Tsunamia"
+    }
+  },
+  {
+    "accountNumber": "0892 1234 2021 2",
+    "description": "Compra Updat",
+    "amount": 20.55,
+    "category": "Transportes",
+    "createdAt": "2021-04-04",
+    "modality": "6x c/juros",
+    "recipient": {
+      "swift": "IBNBPTP1",
+      "iban": "PT83003506512451233796616",
+      "id": "Verbus"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 2",
+    "description": "Pagamento Oceanica",
+    "amount": 41.45,
+    "category": "Saúde",
+    "createdAt": "2021-10-26",
+    "modality": "6x c/juros",
+    "recipient": {
+      "swift": "BNPAPTPL",
+      "iban": "PT50003506512541199953760",
+      "id": "Crustatia"
+    }
+  },
+  {
+    "accountNumber": "0121 0019 6520 0",
+    "description": "Compra Cosmosis",
+    "amount": 60.13,
+    "category": "Transportes",
+    "createdAt": "2021-12-03",
+    "modality": "Fim Mês",
+    "recipient": {
+      "swift": "CDCTPTP2",
+      "iban": "PT50003506512541199953760",
+      "id": "Capscreen"
+    }
+  },
+  {
+    "accountNumber": "0892 1234 2021 2",
+    "description": "Débito Direto Dreamia",
+    "amount": 0.34,
+    "category": "Vestuário",
+    "createdAt": "2021-12-27",
+    "modality": "12x c/juros",
+    "recipient": {
+      "swift": "IBNBPTP1",
+      "iban": "PT45003506517264364179459",
+      "id": "Nurali"
+    }
+  },
+  {
+    "accountNumber": "0121 0019 6520 0",
+    "description": "Carregamento Cubicide",
+    "amount": 21.36,
+    "category": "Entretenimento",
+    "createdAt": "2021-06-13",
+    "modality": "12x c/juros",
+    "recipient": {
+      "swift": "BNPAPTPL",
+      "iban": "PT50003506512541199953760",
+      "id": "Signity"
+    }
+  },
+  {
+    "accountNumber": "0121 0019 6520 0",
+    "description": "Carregamento Combogene",
+    "amount": 55.24,
+    "category": "Entretenimento",
+    "createdAt": "2021-11-28",
+    "modality": "3x c/juros",
+    "recipient": {
+      "swift": "BNPAPTPL",
+      "iban": "PT16003506516139143821136",
+      "id": "Fuelton"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 2",
+    "description": "Pagamento Katakana",
+    "amount": 59.66,
+    "category": "Vestuário",
+    "createdAt": "2021-04-28",
+    "modality": "12x c/juros",
+    "recipient": {
+      "swift": "CGDIPTPL",
+      "iban": "PT83003506512451233796616",
+      "id": "Comtent"
+    }
+  },
+  {
+    "accountNumber": "0121 0019 6520 0",
+    "description": "Pagamento Orbin",
+    "amount": 56.28,
+    "category": "Casa",
+    "createdAt": "2021-04-22",
+    "modality": "12x c/juros",
+    "recipient": {
+      "swift": "BNPAPTPL",
+      "iban": "PT83003506512451233796616",
+      "id": "Idetica"
+    }
+  },
+  {
+    "accountNumber": "0892 1234 2021 2",
+    "description": "Transferência Deepends",
+    "amount": 41.56,
+    "category": "Vestuário",
+    "createdAt": "2021-09-23",
+    "modality": "Débito",
+    "recipient": {
+      "swift": "IBNBPTP1",
+      "iban": "PT50003506512541199953760",
+      "id": "Neocent"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 3",
+    "description": "Carregamento Techade",
+    "amount": 27.37,
+    "category": "Transportes",
+    "createdAt": "2021-04-30",
+    "modality": "Débito",
+    "recipient": {
+      "swift": "BGALPTTG",
+      "iban": "PT45003506517264364179459",
+      "id": "Yogasm"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 2",
+    "description": "Compra Deviltoe",
+    "amount": 58.03,
+    "category": "Entretenimento",
+    "createdAt": "2021-02-07",
+    "modality": "Fim Mês",
+    "recipient": {
+      "swift": "CDCTPTP2",
+      "iban": "PT45003506517264364179459",
+      "id": "Zerology"
+    }
+  },
+  {
+    "accountNumber": "0892 1234 2021 2",
+    "description": "Compra Waterbaby",
+    "amount": 52.18,
+    "category": "Transportes",
+    "createdAt": "2021-06-20",
+    "modality": "Débito",
+    "recipient": {
+      "swift": "BNPAPTPL",
+      "iban": "PT50003506512541199953760",
+      "id": "Renovize"
+    }
+  },
+  {
+    "accountNumber": "0121 0019 6520 0",
+    "description": "Compra Loja Zedalis",
+    "amount": 16.66,
+    "category": "Transportes",
+    "createdAt": "2021-04-05",
+    "modality": "12x c/juros",
+    "recipient": {
+      "swift": "CGDIPTPL",
+      "iban": "PT50003506512541199953760",
+      "id": "Mediot"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 3",
+    "description": "Transferência Zillanet",
+    "amount": 63.07,
+    "category": "Transportes",
+    "createdAt": "2021-08-08",
+    "modality": "12x c/juros",
+    "recipient": {
+      "swift": "BGALPTTG",
+      "iban": "PT16003506516139143821136",
+      "id": "Earbang"
+    }
+  },
+  {
+    "accountNumber": "0892 1234 2021 2",
+    "description": "Compra Loja Zolarex",
+    "amount": 5.59,
+    "category": "Restauração",
+    "createdAt": "2021-01-08",
+    "modality": "Fim Mês",
+    "recipient": {
+      "swift": "BNPAPTPL",
+      "iban": "PT45003506517264364179459",
+      "id": "Zaya"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 3",
+    "description": "Pagamento Scentric",
+    "amount": 35.07,
+    "category": "Casa",
+    "createdAt": "2021-08-23",
+    "modality": "Fim Mês",
+    "recipient": {
+      "swift": "CDCTPTP2",
+      "iban": "PT16003506516139143821136",
+      "id": "Amtap"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 2",
+    "description": "Transferência Zenco",
+    "amount": 78.47,
+    "category": "Transportes",
+    "createdAt": "2021-08-26",
+    "modality": "3x c/juros",
+    "recipient": {
+      "swift": "BESCPTPL",
+      "iban": "PT45003506517264364179459",
+      "id": "Sarasonic"
+    }
+  },
+  {
+    "accountNumber": "0121 0019 6520 0",
+    "description": "Carregamento Minga",
+    "amount": 25.99,
+    "category": "Casa",
+    "createdAt": "2021-09-20",
+    "modality": "Fim Mês",
+    "recipient": {
+      "swift": "IBNBPTP1",
+      "iban": "PT50003506512541199953760",
+      "id": "Comtrek"
+    }
+  },
+  {
+    "accountNumber": "0121 0019 6520 0",
+    "description": "Carregamento Lunchpad",
+    "amount": 14.54,
+    "category": "Vestuário",
+    "createdAt": "2021-10-04",
+    "modality": "6x c/juros",
+    "recipient": {
+      "swift": "IBNBPTP1",
+      "iban": "PT83003506512451233796616",
+      "id": "Eplode"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 3",
+    "description": "Compra Loja Comstar",
+    "amount": 70.62,
+    "category": "Vestuário",
+    "createdAt": "2021-09-18",
+    "modality": "Débito",
+    "recipient": {
+      "swift": "BGALPTTG",
+      "iban": "PT16003506516139143821136",
+      "id": "Frosnex"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 2",
+    "description": "Débito Direto Unia",
+    "amount": 7.73,
+    "category": "Entretenimento",
+    "createdAt": "2021-08-14",
+    "modality": "Débito",
+    "recipient": {
+      "swift": "CGDIPTPL",
+      "iban": "PT16003506516139143821136",
+      "id": "Zentime"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 2",
+    "description": "Compra Loja Balooba",
+    "amount": 39.85,
+    "category": "Transportes",
+    "createdAt": "2021-05-09",
+    "modality": "3x c/juros",
+    "recipient": {
+      "swift": "CGDIPTPL",
+      "iban": "PT45003506517264364179459",
+      "id": "Geekfarm"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 3",
+    "description": "Pagamento Comtours",
+    "amount": 11.29,
+    "category": "Vestuário",
+    "createdAt": "2021-08-15",
+    "modality": "Fim Mês",
+    "recipient": {
+      "swift": "CITIPTPX",
+      "iban": "PT45003506517264364179459",
+      "id": "Assurity"
+    }
+  },
+  {
+    "accountNumber": "0121 0019 6520 0",
+    "description": "Pagamento Zepitope",
+    "amount": 202.11,
+    "category": "Vestuário",
+    "createdAt": "2021-06-30",
+    "modality": "12x c/juros",
+    "recipient": {
+      "swift": "CDCTPTP2",
+      "iban": "PT50003506512541199953760",
+      "id": "Coash"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 3",
+    "description": "Transferência Futurity",
+    "amount": 10.76,
+    "category": "Restauração",
+    "createdAt": "2021-09-22",
+    "modality": "12x c/juros",
+    "recipient": {
+      "swift": "CITIPTPX",
+      "iban": "PT83003506512451233796616",
+      "id": "Terragen"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 3",
+    "description": "Débito Direto Malathion",
+    "amount": 3.68,
+    "category": "Restauração",
+    "createdAt": "2021-10-14",
+    "modality": "Débito",
+    "recipient": {
+      "swift": "CDCTPTP2",
+      "iban": "PT86003506514389783173590",
+      "id": "Comtest"
+    }
+  },
+  {
+    "accountNumber": "0121 0019 6520 0",
+    "description": "Compra Paragonia",
+    "amount": 77.69,
+    "category": "Restauração",
+    "createdAt": "2021-03-05",
+    "modality": "3x c/juros",
+    "recipient": {
+      "swift": "BESCPTPL",
+      "iban": "PT83003506512451233796616",
+      "id": "Dyno"
+    }
+  },
+  {
+    "accountNumber": "0121 0019 6520 0",
+    "description": "Carregamento Zoarere",
+    "amount": 67.68,
+    "category": "Vestuário",
+    "createdAt": "2021-04-10",
+    "modality": "Débito",
+    "recipient": {
+      "swift": "IBNBPTP1",
+      "iban": "PT50003506512541199953760",
+      "id": "Pyrami"
+    }
+  },
+  {
+    "accountNumber": "0892 1234 2021 2",
+    "description": "Compra Loja Pharmex",
+    "amount": 79.51,
+    "category": "Saúde",
+    "createdAt": "2021-05-03",
+    "modality": "6x c/juros",
+    "recipient": {
+      "swift": "BGALPTTG",
+      "iban": "PT86003506514389783173590",
+      "id": "Isologia"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 3",
+    "description": "Débito Direto Multron",
+    "amount": 56.83,
+    "category": "Casa",
+    "createdAt": "2021-12-07",
+    "modality": "Fim Mês",
+    "recipient": {
+      "swift": "CITIPTPX",
+      "iban": "PT45003506517264364179459",
+      "id": "Krog"
+    }
+  },
+  {
+    "accountNumber": "0121 0019 6520 0",
+    "description": "Carregamento Martgo",
+    "amount": 3.29,
+    "category": "Entretenimento",
+    "createdAt": "2021-04-03",
+    "modality": "Débito",
+    "recipient": {
+      "swift": "BGALPTTG",
+      "iban": "PT86003506514389783173590",
+      "id": "Snorus"
+    }
+  },
+  {
+    "accountNumber": "0121 0019 6520 0",
+    "description": "Compra Loja Navir",
+    "amount": 75.37,
+    "category": "Casa",
+    "createdAt": "2021-10-24",
+    "modality": "Débito",
+    "recipient": {
+      "swift": "CGDIPTPL",
+      "iban": "PT83003506512451233796616",
+      "id": "Digigene"
+    }
+  },
+  {
+    "accountNumber": "0121 0019 6520 0",
+    "description": "Transferência Vertide",
+    "amount": 8.61,
+    "category": "Restauração",
+    "createdAt": "2021-01-31",
+    "modality": "12x c/juros",
+    "recipient": {
+      "swift": "BESCPTPL",
+      "iban": "PT45003506517264364179459",
+      "id": "Sonique"
+    }
+  },
+  {
+    "accountNumber": "0121 0019 6520 0",
+    "description": "Transferência Enersave",
+    "amount": 38.42,
+    "category": "Entretenimento",
+    "createdAt": "2021-11-10",
+    "modality": "Fim Mês",
+    "recipient": {
+      "swift": "BGALPTTG",
+      "iban": "PT16003506516139143821136",
+      "id": "Teraprene"
+    }
+  },
+  {
+    "accountNumber": "0121 0019 6520 0",
+    "description": "Débito Direto Schoolio",
+    "amount": 41.57,
+    "category": "Entretenimento",
+    "createdAt": "2021-05-17",
+    "modality": "Fim Mês",
+    "recipient": {
+      "swift": "CGDIPTPL",
+      "iban": "PT45003506517264364179459",
+      "id": "Realysis"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 2",
+    "description": "Pagamento Genmy",
+    "amount": 43.35,
+    "category": "Entretenimento",
+    "createdAt": "2021-02-10",
+    "modality": "3x c/juros",
+    "recipient": {
+      "swift": "CDCTPTP2",
+      "iban": "PT16003506516139143821136",
+      "id": "Insuresys"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 2",
+    "description": "Pagamento Lyria",
+    "amount": 16.93,
+    "category": "Transportes",
+    "createdAt": "2021-10-09",
+    "modality": "3x c/juros",
+    "recipient": {
+      "swift": "BNPAPTPL",
+      "iban": "PT45003506517264364179459",
+      "id": "Insurety"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 2",
+    "description": "Carregamento Illumity",
+    "amount": 19.77,
+    "category": "Saúde",
+    "createdAt": "2021-08-19",
+    "modality": "12x c/juros",
+    "recipient": {
+      "swift": "BESCPTPL",
+      "iban": "PT50003506512541199953760",
+      "id": "Printspan"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 2",
+    "description": "Transferência Tropoli",
+    "amount": 66.91,
+    "category": "Casa",
+    "createdAt": "2021-04-15",
+    "modality": "Fim Mês",
+    "recipient": {
+      "swift": "CGDIPTPL",
+      "iban": "PT50003506512541199953760",
+      "id": "Neurocell"
+    }
+  },
+  {
+    "accountNumber": "0892 1234 2021 2",
+    "description": "Pagamento Photobin",
+    "amount": 31.33,
+    "category": "Casa",
+    "createdAt": "2021-02-26",
+    "modality": "Fim Mês",
+    "recipient": {
+      "swift": "IBNBPTP1",
+      "iban": "PT50003506512541199953760",
+      "id": "Krag"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 2",
+    "description": "Compra Loja Namebox",
+    "amount": 250.02,
+    "category": "Transportes",
+    "createdAt": "2021-07-27",
+    "modality": "6x c/juros",
+    "recipient": {
+      "swift": "BESCPTPL",
+      "iban": "PT50003506512541199953760",
+      "id": "Mangelica"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 2",
+    "description": "Compra Loja Keeg",
+    "amount": 17.22,
+    "category": "Vestuário",
+    "createdAt": "2021-04-27",
+    "modality": "6x c/juros",
+    "recipient": {
+      "swift": "BESCPTPL",
+      "iban": "PT83003506512451233796616",
+      "id": "Conferia"
+    }
+  },
+  {
+    "accountNumber": "0892 1234 2021 2",
+    "description": "Compra Loja Accufarm",
+    "amount": 8.49,
+    "category": "Transportes",
+    "createdAt": "2021-05-11",
+    "modality": "3x c/juros",
+    "recipient": {
+      "swift": "IBNBPTP1",
+      "iban": "PT86003506514389783173590",
+      "id": "Artiq"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 3",
+    "description": "Compra Loja Isostream",
+    "amount": 54.54,
+    "category": "Restauração",
+    "createdAt": "2021-01-01",
+    "modality": "Débito",
+    "recipient": {
+      "swift": "CDCTPTP2",
+      "iban": "PT16003506516139143821136",
+      "id": "Empirica"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 2",
+    "description": "Débito Direto Squish",
+    "amount": 37.66,
+    "category": "Restauração",
+    "createdAt": "2021-09-18",
+    "modality": "6x c/juros",
+    "recipient": {
+      "swift": "BGALPTTG",
+      "iban": "PT86003506514389783173590",
+      "id": "Comveyor"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 3",
+    "description": "Pagamento Silodyne",
+    "amount": 70.73,
+    "category": "Saúde",
+    "createdAt": "2021-05-18",
+    "modality": "12x c/juros",
+    "recipient": {
+      "swift": "IBNBPTP1",
+      "iban": "PT86003506514389783173590",
+      "id": "Inrt"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 3",
+    "description": "Pagamento Equitox",
+    "amount": 19.39,
+    "category": "Entretenimento",
+    "createdAt": "2021-03-15",
+    "modality": "Débito",
+    "recipient": {
+      "swift": "BGALPTTG",
+      "iban": "PT83003506512451233796616",
+      "id": "Bicol"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 2",
+    "description": "Compra Vixo",
+    "amount": 31.09,
+    "category": "Restauração",
+    "createdAt": "2021-02-16",
+    "modality": "6x c/juros",
+    "recipient": {
+      "swift": "CDCTPTP2",
+      "iban": "PT83003506512451233796616",
+      "id": "Neptide"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 3",
+    "description": "Pagamento Telepark",
+    "amount": 49.91,
+    "category": "Entretenimento",
+    "createdAt": "2021-08-14",
+    "modality": "12x c/juros",
+    "recipient": {
+      "swift": "BNPAPTPL",
+      "iban": "PT45003506517264364179459",
+      "id": "Honotron"
+    }
+  },
+  {
+    "accountNumber": "0892 1234 2021 2",
+    "description": "Débito Direto Geeky",
+    "amount": 65.54,
+    "category": "Entretenimento",
+    "createdAt": "2021-03-19",
+    "modality": "6x c/juros",
+    "recipient": {
+      "swift": "CGDIPTPL",
+      "iban": "PT86003506514389783173590",
+      "id": "Comcubine"
+    }
+  },
+  {
+    "accountNumber": "0121 0019 6520 0",
+    "description": "Débito Direto Dancity",
+    "amount": 49.21,
+    "category": "Entretenimento",
+    "createdAt": "2021-07-05",
+    "modality": "6x c/juros",
+    "recipient": {
+      "swift": "CITIPTPX",
+      "iban": "PT50003506512541199953760",
+      "id": "Gonkle"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 3",
+    "description": "Compra Loja Opportech",
+    "amount": 68.46,
+    "category": "Transportes",
+    "createdAt": "2021-01-19",
+    "modality": "Fim Mês",
+    "recipient": {
+      "swift": "BGALPTTG",
+      "iban": "PT50003506512541199953760",
+      "id": "Koffee"
+    }
+  },
+  {
+    "accountNumber": "0121 0019 6520 0",
+    "description": "Débito Direto Qimonk",
+    "amount": 29.84,
+    "category": "Restauração",
+    "createdAt": "2021-03-13",
+    "modality": "Fim Mês",
+    "recipient": {
+      "swift": "IBNBPTP1",
+      "iban": "PT50003506512541199953760",
+      "id": "Stelaecor"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 2",
+    "description": "Pagamento Cofine",
+    "amount": 32.71,
+    "category": "Entretenimento",
+    "createdAt": "2021-07-16",
+    "modality": "Fim Mês",
+    "recipient": {
+      "swift": "BNPAPTPL",
+      "iban": "PT50003506512541199953760",
+      "id": "Securia"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 2",
+    "description": "Débito Direto Enervate",
+    "amount": 8.55,
+    "category": "Transportes",
+    "createdAt": "2021-02-11",
+    "modality": "12x c/juros",
+    "recipient": {
+      "swift": "BESCPTPL",
+      "iban": "PT83003506512451233796616",
+      "id": "Xplor"
+    }
+  },
+  {
+    "accountNumber": "0892 1234 2021 2",
+    "description": "Compra Isodrive",
+    "amount": 8.39,
+    "category": "Transportes",
+    "createdAt": "2021-09-30",
+    "modality": "12x c/juros",
+    "recipient": {
+      "swift": "IBNBPTP1",
+      "iban": "PT86003506514389783173590",
+      "id": "Everest"
+    }
+  },
+  {
+    "accountNumber": "0892 1234 2021 2",
+    "description": "Débito Direto Gorganic",
+    "amount": 76.46,
+    "category": "Restauração",
+    "createdAt": "2021-09-27",
+    "modality": "6x c/juros",
+    "recipient": {
+      "swift": "BNPAPTPL",
+      "iban": "PT16003506516139143821136",
+      "id": "Locazone"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 3",
+    "description": "Pagamento Plasmosis",
+    "amount": 30.22,
+    "category": "Transportes",
+    "createdAt": "2021-07-03",
+    "modality": "Fim Mês",
+    "recipient": {
+      "swift": "BESCPTPL",
+      "iban": "PT16003506516139143821136",
+      "id": "Emoltra"
+    }
+  },
+  {
+    "accountNumber": "0121 0019 6520 0",
+    "description": "Compra Hivedom",
+    "amount": 60.99,
+    "category": "Entretenimento",
+    "createdAt": "2021-02-22",
+    "modality": "6x c/juros",
+    "recipient": {
+      "swift": "CGDIPTPL",
+      "iban": "PT50003506512541199953760",
+      "id": "Diginetic"
+    }
+  },
+  {
+    "accountNumber": "0892 1234 2021 2",
+    "description": "Pagamento Twiist",
+    "amount": 37.17,
+    "category": "Vestuário",
+    "createdAt": "2021-12-22",
+    "modality": "6x c/juros",
+    "recipient": {
+      "swift": "CDCTPTP2",
+      "iban": "PT50003506512541199953760",
+      "id": "Cytrak"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 2",
+    "description": "Compra Orbalix",
+    "amount": 17.88,
+    "category": "Entretenimento",
+    "createdAt": "2021-08-16",
+    "modality": "6x c/juros",
+    "recipient": {
+      "swift": "IBNBPTP1",
+      "iban": "PT45003506517264364179459",
+      "id": "Tripsch"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 3",
+    "description": "Débito Direto Softmicro",
+    "amount": 32.26,
+    "category": "Entretenimento",
+    "createdAt": "2021-12-04",
+    "modality": "3x c/juros",
+    "recipient": {
+      "swift": "IBNBPTP1",
+      "iban": "PT83003506512451233796616",
+      "id": "Centuria"
+    }
+  },
+  {
+    "accountNumber": "0121 0019 6520 0",
+    "description": "Carregamento Quarx",
+    "amount": 23.19,
+    "category": "Vestuário",
+    "createdAt": "2021-04-13",
+    "modality": "12x c/juros",
+    "recipient": {
+      "swift": "BESCPTPL",
+      "iban": "PT50003506512541199953760",
+      "id": "Vinch"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 2",
+    "description": "Carregamento Recrisys",
+    "amount": 51.13,
+    "category": "Casa",
+    "createdAt": "2021-09-26",
+    "modality": "Fim Mês",
+    "recipient": {
+      "swift": "CDCTPTP2",
+      "iban": "PT16003506516139143821136",
+      "id": "Digigen"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 2",
+    "description": "Pagamento Zentry",
+    "amount": 58.44,
+    "category": "Restauração",
+    "createdAt": "2021-01-09",
+    "modality": "3x c/juros",
+    "recipient": {
+      "swift": "CDCTPTP2",
+      "iban": "PT86003506514389783173590",
+      "id": "Geekko"
+    }
+  },
+  {
+    "accountNumber": "0892 1234 2021 2",
+    "description": "Compra Loja Insuron",
+    "amount": 32.44,
+    "category": "Vestuário",
+    "createdAt": "2021-04-04",
+    "modality": "12x c/juros",
+    "recipient": {
+      "swift": "CGDIPTPL",
+      "iban": "PT50003506512541199953760",
+      "id": "Vidto"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 3",
+    "description": "Compra Loja Providco",
+    "amount": 68.65,
+    "category": "Vestuário",
+    "createdAt": "2021-07-22",
+    "modality": "Débito",
+    "recipient": {
+      "swift": "BESCPTPL",
+      "iban": "PT83003506512451233796616",
+      "id": "Rubadub"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 2",
+    "description": "Carregamento Pholio",
+    "amount": 29.58,
+    "category": "Vestuário",
+    "createdAt": "2021-09-05",
+    "modality": "Fim Mês",
+    "recipient": {
+      "swift": "BNPAPTPL",
+      "iban": "PT16003506516139143821136",
+      "id": "Phuel"
+    }
+  },
+  {
+    "accountNumber": "0892 1234 2021 2",
+    "description": "Débito Direto Viagreat",
+    "amount": 68.52,
+    "category": "Saúde",
+    "createdAt": "2021-02-01",
+    "modality": "3x c/juros",
+    "recipient": {
+      "swift": "BGALPTTG",
+      "iban": "PT86003506514389783173590",
+      "id": "Andershun"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 3",
+    "description": "Compra Hairport",
+    "amount": 31.72,
+    "category": "Transportes",
+    "createdAt": "2021-08-16",
+    "modality": "Débito",
+    "recipient": {
+      "swift": "BNPAPTPL",
+      "iban": "PT50003506512541199953760",
+      "id": "Quarex"
+    }
+  },
+  {
+    "accountNumber": "0121 0019 6520 0",
+    "description": "Compra Isotrack",
+    "amount": 41.71,
+    "category": "Transportes",
+    "createdAt": "2021-06-03",
+    "modality": "6x c/juros",
+    "recipient": {
+      "swift": "BGALPTTG",
+      "iban": "PT45003506517264364179459",
+      "id": "Intergeek"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 2",
+    "description": "Débito Direto Eschoir",
+    "amount": 38.12,
+    "category": "Restauração",
+    "createdAt": "2021-11-05",
+    "modality": "12x c/juros",
+    "recipient": {
+      "swift": "CDCTPTP2",
+      "iban": "PT16003506516139143821136",
+      "id": "Aquasseur"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 3",
+    "description": "Compra Loja Prosure",
+    "amount": 65.21,
+    "category": "Saúde",
+    "createdAt": "2021-04-30",
+    "modality": "Fim Mês",
+    "recipient": {
+      "swift": "IBNBPTP1",
+      "iban": "PT45003506517264364179459",
+      "id": "Kegular"
+    }
+  },
+  {
+    "accountNumber": "0892 1234 2021 2",
+    "description": "Carregamento Animalia",
+    "amount": 53.79,
+    "category": "Restauração",
+    "createdAt": "2021-07-23",
+    "modality": "12x c/juros",
+    "recipient": {
+      "swift": "BESCPTPL",
+      "iban": "PT16003506516139143821136",
+      "id": "Barkarama"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 3",
+    "description": "Débito Direto Equitax",
+    "amount": 42.57,
+    "category": "Entretenimento",
+    "createdAt": "2021-02-07",
+    "modality": "Fim Mês",
+    "recipient": {
+      "swift": "BGALPTTG",
+      "iban": "PT45003506517264364179459",
+      "id": "Coriander"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 3",
+    "description": "Débito Direto Zanilla",
+    "amount": 18.24,
+    "category": "Saúde",
+    "createdAt": "2021-10-13",
+    "modality": "Débito",
+    "recipient": {
+      "swift": "BGALPTTG",
+      "iban": "PT45003506517264364179459",
+      "id": "Omatom"
+    }
+  },
+  {
+    "accountNumber": "0121 0019 6520 0",
+    "description": "Carregamento Grupoli",
+    "amount": 15.23,
+    "category": "Saúde",
+    "createdAt": "2021-09-11",
+    "modality": "3x c/juros",
+    "recipient": {
+      "swift": "BESCPTPL",
+      "iban": "PT86003506514389783173590",
+      "id": "Zolarity"
+    }
+  },
+  {
+    "accountNumber": "0892 1234 2021 2",
+    "description": "Compra Digiprint",
+    "amount": 67.53,
+    "category": "Vestuário",
+    "createdAt": "2021-05-04",
+    "modality": "Fim Mês",
+    "recipient": {
+      "swift": "BGALPTTG",
+      "iban": "PT45003506517264364179459",
+      "id": "Recritube"
+    }
+  },
+  {
+    "accountNumber": "0892 1234 2021 2",
+    "description": "Transferência Comtrak",
+    "amount": 66.25,
+    "category": "Restauração",
+    "createdAt": "2021-09-27",
+    "modality": "6x c/juros",
+    "recipient": {
+      "swift": "CITIPTPX",
+      "iban": "PT83003506512451233796616",
+      "id": "Hatology"
+    }
+  },
+  {
+    "accountNumber": "0892 1234 2021 2",
+    "description": "Carregamento Extragene",
+    "amount": 4.74,
+    "category": "Transportes",
+    "createdAt": "2021-08-13",
+    "modality": "Débito",
+    "recipient": {
+      "swift": "BNPAPTPL",
+      "iban": "PT16003506516139143821136",
+      "id": "Extro"
+    }
+  },
+  {
+    "accountNumber": "0892 1234 2021 2",
+    "description": "Débito Direto Ecraze",
+    "amount": 52.65,
+    "category": "Vestuário",
+    "createdAt": "2021-05-28",
+    "modality": "Fim Mês",
+    "recipient": {
+      "swift": "BESCPTPL",
+      "iban": "PT50003506512541199953760",
+      "id": "Sustenza"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 2",
+    "description": "Compra Xelegyl",
+    "amount": 70.45,
+    "category": "Casa",
+    "createdAt": "2021-06-12",
+    "modality": "Débito",
+    "recipient": {
+      "swift": "BGALPTTG",
+      "iban": "PT86003506514389783173590",
+      "id": "Marvane"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 3",
+    "description": "Transferência Ronelon",
+    "amount": 5.36,
+    "category": "Restauração",
+    "createdAt": "2021-02-25",
+    "modality": "Fim Mês",
+    "recipient": {
+      "swift": "CDCTPTP2",
+      "iban": "PT50003506512541199953760",
+      "id": "Geekol"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 3",
+    "description": "Compra Loja Polarax",
+    "amount": 72.31,
+    "category": "Transportes",
+    "createdAt": "2021-03-28",
+    "modality": "Débito",
+    "recipient": {
+      "swift": "BNPAPTPL",
+      "iban": "PT50003506512541199953760",
+      "id": "Elpro"
+    }
+  },
+  {
+    "accountNumber": "0892 1234 2021 2",
+    "description": "Carregamento Plasto",
+    "amount": 50.62,
+    "category": "Vestuário",
+    "createdAt": "2021-02-15",
+    "modality": "Fim Mês",
+    "recipient": {
+      "swift": "CGDIPTPL",
+      "iban": "PT50003506512541199953760",
+      "id": "Ovium"
+    }
+  },
+  {
+    "accountNumber": "0121 0019 6520 0",
+    "description": "Transferência Architax",
+    "amount": 6.74,
+    "category": "Casa",
+    "createdAt": "2021-09-02",
+    "modality": "6x c/juros",
+    "recipient": {
+      "swift": "BESCPTPL",
+      "iban": "PT50003506512541199953760",
+      "id": "Primordia"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 3",
+    "description": "Compra Loja Geoforma",
+    "amount": 42.68,
+    "category": "Casa",
+    "createdAt": "2021-05-15",
+    "modality": "3x c/juros",
+    "recipient": {
+      "swift": "CITIPTPX",
+      "iban": "PT45003506517264364179459",
+      "id": "Accidency"
+    }
+  },
+  {
+    "accountNumber": "0892 1234 2021 2",
+    "description": "Débito Direto Insectus",
+    "amount": 6.88,
+    "category": "Vestuário",
+    "createdAt": "2021-11-07",
+    "modality": "3x c/juros",
+    "recipient": {
+      "swift": "IBNBPTP1",
+      "iban": "PT86003506514389783173590",
+      "id": "Blurrybus"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 2",
+    "description": "Pagamento Optyk",
+    "amount": 20.28,
+    "category": "Vestuário",
+    "createdAt": "2021-10-10",
+    "modality": "12x c/juros",
+    "recipient": {
+      "swift": "BGALPTTG",
+      "iban": "PT16003506516139143821136",
+      "id": "Prosely"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 2",
+    "description": "Débito Direto Extrawear",
+    "amount": 3.99,
+    "category": "Transportes",
+    "createdAt": "2021-10-11",
+    "modality": "Fim Mês",
+    "recipient": {
+      "swift": "BGALPTTG",
+      "iban": "PT86003506514389783173590",
+      "id": "Eventage"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 3",
+    "description": "Compra Tetratrex",
+    "amount": 18.25,
+    "category": "Vestuário",
+    "createdAt": "2021-12-26",
+    "modality": "Débito",
+    "recipient": {
+      "swift": "BESCPTPL",
+      "iban": "PT83003506512451233796616",
+      "id": "Evidends"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 2",
+    "description": "Débito Direto Waretel",
+    "amount": 79.23,
+    "category": "Entretenimento",
+    "createdAt": "2021-11-30",
+    "modality": "12x c/juros",
+    "recipient": {
+      "swift": "CDCTPTP2",
+      "iban": "PT83003506512451233796616",
+      "id": "Zolar"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 3",
+    "description": "Compra Loja Ginkogene",
+    "amount": 31.34,
+    "category": "Casa",
+    "createdAt": "2021-11-05",
+    "modality": "12x c/juros",
+    "recipient": {
+      "swift": "CITIPTPX",
+      "iban": "PT83003506512451233796616",
+      "id": "Interfind"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 3",
+    "description": "Débito Direto Assistix",
+    "amount": 52.81,
+    "category": "Restauração",
+    "createdAt": "2021-09-26",
+    "modality": "6x c/juros",
+    "recipient": {
+      "swift": "CITIPTPX",
+      "iban": "PT83003506512451233796616",
+      "id": "Applica"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 2",
+    "description": "Compra Digique",
+    "amount": 57.67,
+    "category": "Transportes",
+    "createdAt": "2021-11-16",
+    "modality": "6x c/juros",
+    "recipient": {
+      "swift": "CDCTPTP2",
+      "iban": "PT50003506512541199953760",
+      "id": "Zillar"
+    }
+  },
+  {
+    "accountNumber": "0892 1234 2021 2",
+    "description": "Débito Direto Springbee",
+    "amount": 9.71,
+    "category": "Transportes",
+    "createdAt": "2021-01-13",
+    "modality": "6x c/juros",
+    "recipient": {
+      "swift": "IBNBPTP1",
+      "iban": "PT16003506516139143821136",
+      "id": "Plexia"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 3",
+    "description": "Pagamento Circum",
+    "amount": 21.98,
+    "category": "Transportes",
+    "createdAt": "2021-08-22",
+    "modality": "6x c/juros",
+    "recipient": {
+      "swift": "BESCPTPL",
+      "iban": "PT50003506512541199953760",
+      "id": "Poshome"
+    }
+  },
+  {
+    "accountNumber": "0892 1234 2021 2",
+    "description": "Transferência Pulze",
+    "amount": 56.46,
+    "category": "Restauração",
+    "createdAt": "2021-01-13",
+    "modality": "Fim Mês",
+    "recipient": {
+      "swift": "CDCTPTP2",
+      "iban": "PT45003506517264364179459",
+      "id": "Protodyne"
+    }
+  },
+  {
+    "accountNumber": "0892 1234 2021 2",
+    "description": "Transferência Automon",
+    "amount": 63.23,
+    "category": "Vestuário",
+    "createdAt": "2021-06-01",
+    "modality": "6x c/juros",
+    "recipient": {
+      "swift": "BNPAPTPL",
+      "iban": "PT83003506512451233796616",
+      "id": "Lumbrex"
+    }
+  },
+  {
+    "accountNumber": "0892 1234 2021 2",
+    "description": "Compra Loja Bostonic",
+    "amount": 52.98,
+    "category": "Saúde",
+    "createdAt": "2021-06-17",
+    "modality": "Fim Mês",
+    "recipient": {
+      "swift": "BNPAPTPL",
+      "iban": "PT45003506517264364179459",
+      "id": "Magneato"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 2",
+    "description": "Compra Loja Kengen",
+    "amount": 66.27,
+    "category": "Casa",
+    "createdAt": "2021-02-19",
+    "modality": "6x c/juros",
+    "recipient": {
+      "swift": "CGDIPTPL",
+      "iban": "PT16003506516139143821136",
+      "id": "Quarmony"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 3",
+    "description": "Carregamento Plasmos",
+    "amount": 61.62,
+    "category": "Restauração",
+    "createdAt": "2021-11-03",
+    "modality": "12x c/juros",
+    "recipient": {
+      "swift": "BESCPTPL",
+      "iban": "PT50003506512541199953760",
+      "id": "Twiggery"
+    }
+  },
+  {
+    "accountNumber": "0121 0019 6520 0",
+    "description": "Carregamento Egypto",
+    "amount": 76.21,
+    "category": "Entretenimento",
+    "createdAt": "2021-09-11",
+    "modality": "12x c/juros",
+    "recipient": {
+      "swift": "BGALPTTG",
+      "iban": "PT50003506512541199953760",
+      "id": "Exposa"
+    }
+  },
+  {
+    "accountNumber": "0121 0019 6520 0",
+    "description": "Pagamento Fuelworks",
+    "amount": 23.69,
+    "category": "Transportes",
+    "createdAt": "2021-04-10",
+    "modality": "Débito",
+    "recipient": {
+      "swift": "IBNBPTP1",
+      "iban": "PT83003506512451233796616",
+      "id": "Boilicon"
+    }
+  },
+  {
+    "accountNumber": "0892 1234 2021 2",
+    "description": "Pagamento Isotronic",
+    "amount": 76.91,
+    "category": "Entretenimento",
+    "createdAt": "2021-03-17",
+    "modality": "3x c/juros",
+    "recipient": {
+      "swift": "BNPAPTPL",
+      "iban": "PT45003506517264364179459",
+      "id": "Austex"
+    }
+  },
+  {
+    "accountNumber": "0892 1234 2021 2",
+    "description": "Compra Loja Equicom",
+    "amount": 55.03,
+    "category": "Transportes",
+    "createdAt": "2021-04-30",
+    "modality": "Fim Mês",
+    "recipient": {
+      "swift": "BNPAPTPL",
+      "iban": "PT86003506514389783173590",
+      "id": "Shopabout"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 2",
+    "description": "Carregamento Menbrain",
+    "amount": 53.79,
+    "category": "Restauração",
+    "createdAt": "2021-02-09",
+    "modality": "12x c/juros",
+    "recipient": {
+      "swift": "CITIPTPX",
+      "iban": "PT86003506514389783173590",
+      "id": "Marketoid"
+    }
+  },
+  {
+    "accountNumber": "0892 1234 2021 2",
+    "description": "Pagamento Viasia",
+    "amount": 72.77,
+    "category": "Restauração",
+    "createdAt": "2021-08-11",
+    "modality": "12x c/juros",
+    "recipient": {
+      "swift": "IBNBPTP1",
+      "iban": "PT45003506517264364179459",
+      "id": "Bitendrex"
+    }
+  },
+  {
+    "accountNumber": "0892 1234 2021 2",
+    "description": "Pagamento Orbixtar",
+    "amount": 21.88,
+    "category": "Casa",
+    "createdAt": "2021-02-03",
+    "modality": "12x c/juros",
+    "recipient": {
+      "swift": "IBNBPTP1",
+      "iban": "PT16003506516139143821136",
+      "id": "Cemention"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 3",
+    "description": "Débito Direto Savvy",
+    "amount": 27.61,
+    "category": "Saúde",
+    "createdAt": "2021-08-11",
+    "modality": "3x c/juros",
+    "recipient": {
+      "swift": "BNPAPTPL",
+      "iban": "PT50003506512541199953760",
+      "id": "Imkan"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 2",
+    "description": "Transferência Luxuria",
+    "amount": 13.76,
+    "category": "Casa",
+    "createdAt": "2021-04-09",
+    "modality": "6x c/juros",
+    "recipient": {
+      "swift": "CITIPTPX",
+      "iban": "PT83003506512451233796616",
+      "id": "Neteria"
+    }
+  },
+  {
+    "accountNumber": "0892 1234 2021 2",
+    "description": "Débito Direto Perkle",
+    "amount": 60.19,
+    "category": "Transportes",
+    "createdAt": "2021-07-22",
+    "modality": "Fim Mês",
+    "recipient": {
+      "swift": "IBNBPTP1",
+      "iban": "PT45003506517264364179459",
+      "id": "Rodeology"
+    }
+  },
+  {
+    "accountNumber": "0892 1234 2021 2",
+    "description": "Débito Direto Slax",
+    "amount": 63.85,
+    "category": "Transportes",
+    "createdAt": "2021-03-27",
+    "modality": "12x c/juros",
+    "recipient": {
+      "swift": "IBNBPTP1",
+      "iban": "PT45003506517264364179459",
+      "id": "Telequiet"
+    }
+  },
+  {
+    "accountNumber": "0892 1234 2021 2",
+    "description": "Pagamento Deminimum",
+    "amount": 62.16,
+    "category": "Casa",
+    "createdAt": "2021-12-20",
+    "modality": "3x c/juros",
+    "recipient": {
+      "swift": "CGDIPTPL",
+      "iban": "PT86003506514389783173590",
+      "id": "Realmo"
+    }
+  },
+  {
+    "accountNumber": "0892 1234 2021 2",
+    "description": "Compra Loja Volax",
+    "amount": 69.11,
+    "category": "Saúde",
+    "createdAt": "2021-12-27",
+    "modality": "12x c/juros",
+    "recipient": {
+      "swift": "CDCTPTP2",
+      "iban": "PT45003506517264364179459",
+      "id": "Lingoage"
+    }
+  },
+  {
+    "accountNumber": "0121 0019 6520 0",
+    "description": "Compra Centregy",
+    "amount": 34.02,
+    "category": "Transportes",
+    "createdAt": "2021-02-16",
+    "modality": "12x c/juros",
+    "recipient": {
+      "swift": "CITIPTPX",
+      "iban": "PT16003506516139143821136",
+      "id": "Cormoran"
+    }
+  },
+  {
+    "accountNumber": "0892 1234 2021 2",
+    "description": "Pagamento Virxo",
+    "amount": 72.12,
+    "category": "Vestuário",
+    "createdAt": "2021-09-19",
+    "modality": "3x c/juros",
+    "recipient": {
+      "swift": "CDCTPTP2",
+      "iban": "PT50003506512541199953760",
+      "id": "Hyplex"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 2",
+    "description": "Pagamento Ontality",
+    "amount": 53.75,
+    "category": "Entretenimento",
+    "createdAt": "2021-03-19",
+    "modality": "3x c/juros",
+    "recipient": {
+      "swift": "IBNBPTP1",
+      "iban": "PT83003506512451233796616",
+      "id": "Enquility"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 3",
+    "description": "Pagamento Canopoly",
+    "amount": 46.49,
+    "category": "Saúde",
+    "createdAt": "2021-10-26",
+    "modality": "Débito",
+    "recipient": {
+      "swift": "IBNBPTP1",
+      "iban": "PT50003506512541199953760",
+      "id": "Earthwax"
+    }
+  },
+  {
+    "accountNumber": "0121 0019 6520 0",
+    "description": "Débito Direto Incubus",
+    "amount": 75.01,
+    "category": "Transportes",
+    "createdAt": "2021-06-20",
+    "modality": "Fim Mês",
+    "recipient": {
+      "swift": "BGALPTTG",
+      "iban": "PT45003506517264364179459",
+      "id": "Goko"
+    }
+  },
+  {
+    "accountNumber": "0121 0019 6520 0",
+    "description": "Compra Loja Motovate",
+    "amount": 79.34,
+    "category": "Entretenimento",
+    "createdAt": "2021-04-30",
+    "modality": "Débito",
+    "recipient": {
+      "swift": "CDCTPTP2",
+      "iban": "PT50003506512541199953760",
+      "id": "Entroflex"
+    }
+  },
+  {
+    "accountNumber": "0121 0019 6520 0",
+    "description": "Débito Direto Kidgrease",
+    "amount": 61.35,
+    "category": "Casa",
+    "createdAt": "2021-11-29",
+    "modality": "Débito",
+    "recipient": {
+      "swift": "BESCPTPL",
+      "iban": "PT86003506514389783173590",
+      "id": "Tourmania"
+    }
+  },
+  {
+    "accountNumber": "0892 1234 2021 2",
+    "description": "Pagamento Visalia",
+    "amount": 51.12,
+    "category": "Vestuário",
+    "createdAt": "2021-08-01",
+    "modality": "6x c/juros",
+    "recipient": {
+      "swift": "CDCTPTP2",
+      "iban": "PT50003506512541199953760",
+      "id": "Bristo"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 2",
+    "description": "Carregamento Inquala",
+    "amount": 31.16,
+    "category": "Casa",
+    "createdAt": "2021-02-16",
+    "modality": "6x c/juros",
+    "recipient": {
+      "swift": "IBNBPTP1",
+      "iban": "PT45003506517264364179459",
+      "id": "Brainclip"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 3",
+    "description": "Compra Loja Nikuda",
+    "amount": 61.73,
+    "category": "Casa",
+    "createdAt": "2021-12-15",
+    "modality": "12x c/juros",
+    "recipient": {
+      "swift": "IBNBPTP1",
+      "iban": "PT50003506512541199953760",
+      "id": "Pyramax"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 3",
+    "description": "Compra Edecine",
+    "amount": 50.83,
+    "category": "Transportes",
+    "createdAt": "2021-07-17",
+    "modality": "12x c/juros",
+    "recipient": {
+      "swift": "BGALPTTG",
+      "iban": "PT83003506512451233796616",
+      "id": "Parcoe"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 3",
+    "description": "Transferência Zillatide",
+    "amount": 25.08,
+    "category": "Transportes",
+    "createdAt": "2021-02-23",
+    "modality": "Débito",
+    "recipient": {
+      "swift": "BGALPTTG",
+      "iban": "PT86003506514389783173590",
+      "id": "Quantasis"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 3",
+    "description": "Compra Loja Tubesys",
+    "amount": 78.51,
+    "category": "Vestuário",
+    "createdAt": "2021-05-07",
+    "modality": "Fim Mês",
+    "recipient": {
+      "swift": "BESCPTPL",
+      "iban": "PT86003506514389783173590",
+      "id": "Vetron"
+    }
+  },
+  {
+    "accountNumber": "0121 0019 6520 0",
+    "description": "Carregamento Eternis",
+    "amount": 66.07,
+    "category": "Transportes",
+    "createdAt": "2021-06-23",
+    "modality": "Débito",
+    "recipient": {
+      "swift": "CDCTPTP2",
+      "iban": "PT86003506514389783173590",
+      "id": "Urbanshee"
+    }
+  },
+  {
+    "accountNumber": "0121 0019 6520 0",
+    "description": "Pagamento Snacktion",
+    "amount": 41.92,
+    "category": "Vestuário",
+    "createdAt": "2021-07-22",
+    "modality": "Fim Mês",
+    "recipient": {
+      "swift": "CDCTPTP2",
+      "iban": "PT83003506512451233796616",
+      "id": "Datagen"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 2",
+    "description": "Carregamento Earthmark",
+    "amount": 9.58,
+    "category": "Transportes",
+    "createdAt": "2021-07-04",
+    "modality": "12x c/juros",
+    "recipient": {
+      "swift": "BESCPTPL",
+      "iban": "PT86003506514389783173590",
+      "id": "Zilodyne"
+    }
+  },
+  {
+    "accountNumber": "0121 0019 6520 0",
+    "description": "Pagamento Kidstock",
+    "amount": 2.04,
+    "category": "Entretenimento",
+    "createdAt": "2021-01-14",
+    "modality": "Fim Mês",
+    "recipient": {
+      "swift": "CITIPTPX",
+      "iban": "PT16003506516139143821136",
+      "id": "Enerforce"
+    }
+  },
+  {
+    "accountNumber": "0121 0019 6520 0",
+    "description": "Transferência Imant",
+    "amount": 58.95,
+    "category": "Transportes",
+    "createdAt": "2021-08-21",
+    "modality": "12x c/juros",
+    "recipient": {
+      "swift": "CGDIPTPL",
+      "iban": "PT83003506512451233796616",
+      "id": "Envire"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 3",
+    "description": "Carregamento Cubix",
+    "amount": 18.67,
+    "category": "Transportes",
+    "createdAt": "2021-10-27",
+    "modality": "Débito",
+    "recipient": {
+      "swift": "CGDIPTPL",
+      "iban": "PT83003506512451233796616",
+      "id": "Nexgene"
+    }
+  },
+  {
+    "accountNumber": "0121 0019 6520 0",
+    "description": "Compra Loja Kneedles",
+    "amount": 67.77,
+    "category": "Casa",
+    "createdAt": "2021-04-02",
+    "modality": "12x c/juros",
+    "recipient": {
+      "swift": "CGDIPTPL",
+      "iban": "PT16003506516139143821136",
+      "id": "Velos"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 3",
+    "description": "Compra Loja Quantalia",
+    "amount": 34.58,
+    "category": "Transportes",
+    "createdAt": "2021-04-10",
+    "modality": "Débito",
+    "recipient": {
+      "swift": "CGDIPTPL",
+      "iban": "PT45003506517264364179459",
+      "id": "Ovation"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 3",
+    "description": "Transferência Fortean",
+    "amount": 4.88,
+    "category": "Entretenimento",
+    "createdAt": "2021-01-25",
+    "modality": "6x c/juros",
+    "recipient": {
+      "swift": "CGDIPTPL",
+      "iban": "PT50003506512541199953760",
+      "id": "Micronaut"
+    }
+  },
+  {
+    "accountNumber": "0892 1234 2021 2",
+    "description": "Compra Loja Xth",
+    "amount": 3.92,
+    "category": "Transportes",
+    "createdAt": "2021-02-23",
+    "modality": "6x c/juros",
+    "recipient": {
+      "swift": "BESCPTPL",
+      "iban": "PT86003506514389783173590",
+      "id": "Quilch"
+    }
+  },
+  {
+    "accountNumber": "0121 0019 6520 0",
+    "description": "Transferência Qualitern",
+    "amount": 20.81,
+    "category": "Transportes",
+    "createdAt": "2021-08-04",
+    "modality": "3x c/juros",
+    "recipient": {
+      "swift": "CDCTPTP2",
+      "iban": "PT50003506512541199953760",
+      "id": "Rodemco"
+    }
+  },
+  {
+    "accountNumber": "0892 1234 2021 2",
+    "description": "Transferência Trasola",
+    "amount": 35.59,
+    "category": "Saúde",
+    "createdAt": "2021-12-28",
+    "modality": "12x c/juros",
+    "recipient": {
+      "swift": "BNPAPTPL",
+      "iban": "PT45003506517264364179459",
+      "id": "Assitia"
+    }
+  },
+  {
+    "accountNumber": "0892 1234 2021 2",
+    "description": "Compra Loja Supportal",
+    "amount": 24.68,
+    "category": "Restauração",
+    "createdAt": "2021-07-15",
+    "modality": "3x c/juros",
+    "recipient": {
+      "swift": "BGALPTTG",
+      "iban": "PT45003506517264364179459",
+      "id": "Geekology"
+    }
+  },
+  {
+    "accountNumber": "0121 0019 6520 0",
+    "description": "Compra Cosmetex",
+    "amount": 32.76,
+    "category": "Entretenimento",
+    "createdAt": "2021-04-02",
+    "modality": "Débito",
+    "recipient": {
+      "swift": "BESCPTPL",
+      "iban": "PT83003506512451233796616",
+      "id": "Zilch"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 3",
+    "description": "Débito Direto Elita",
+    "amount": 41.68,
+    "category": "Restauração",
+    "createdAt": "2021-07-29",
+    "modality": "3x c/juros",
+    "recipient": {
+      "swift": "CGDIPTPL",
+      "iban": "PT50003506512541199953760",
+      "id": "Bullzone"
+    }
+  },
+  {
+    "accountNumber": "0121 0019 6520 0",
+    "description": "Pagamento Baluba",
+    "amount": 10.89,
+    "category": "Saúde",
+    "createdAt": "2021-06-01",
+    "modality": "Fim Mês",
+    "recipient": {
+      "swift": "IBNBPTP1",
+      "iban": "PT45003506517264364179459",
+      "id": "Chillium"
+    }
+  },
+  {
+    "accountNumber": "0121 0019 6520 0",
+    "description": "Transferência Gronk",
+    "amount": 29.28,
+    "category": "Transportes",
+    "createdAt": "2021-08-30",
+    "modality": "Fim Mês",
+    "recipient": {
+      "swift": "CDCTPTP2",
+      "iban": "PT86003506514389783173590",
+      "id": "Bulljuice"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 3",
+    "description": "Débito Direto Aquacine",
+    "amount": 125.22,
+    "category": "Casa",
+    "createdAt": "2021-01-05",
+    "modality": "3x c/juros",
+    "recipient": {
+      "swift": "IBNBPTP1",
+      "iban": "PT50003506512541199953760",
+      "id": "Dognost"
+    }
+  },
+  {
+    "accountNumber": "0892 1234 2021 2",
+    "description": "Pagamento Steeltab",
+    "amount": 21.21,
+    "category": "Casa",
+    "createdAt": "2021-08-31",
+    "modality": "Fim Mês",
+    "recipient": {
+      "swift": "CDCTPTP2",
+      "iban": "PT86003506514389783173590",
+      "id": "Suremax"
+    }
+  },
+  {
+    "accountNumber": "0892 1234 2021 2",
+    "description": "Transferência Zyple",
+    "amount": 68.26,
+    "category": "Casa",
+    "createdAt": "2021-04-19",
+    "modality": "6x c/juros",
+    "recipient": {
+      "swift": "BESCPTPL",
+      "iban": "PT83003506512451233796616",
+      "id": "Talkola"
+    }
+  },
+  {
+    "accountNumber": "0892 1234 2021 2",
+    "description": "Compra Loja Skinserve",
+    "amount": 50.33,
+    "category": "Restauração",
+    "createdAt": "2021-04-04",
+    "modality": "6x c/juros",
+    "recipient": {
+      "swift": "BESCPTPL",
+      "iban": "PT83003506512451233796616",
+      "id": "Ultrasure"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 2",
+    "description": "Débito Direto Futuris",
+    "amount": 76.23,
+    "category": "Saúde",
+    "createdAt": "2021-10-04",
+    "modality": "6x c/juros",
+    "recipient": {
+      "swift": "IBNBPTP1",
+      "iban": "PT50003506512541199953760",
+      "id": "Bytrex"
+    }
+  },
+  {
+    "accountNumber": "0892 1234 2021 2",
+    "description": "Transferência Cincyr",
+    "amount": 16.84,
+    "category": "Vestuário",
+    "createdAt": "2021-01-19",
+    "modality": "6x c/juros",
+    "recipient": {
+      "swift": "CDCTPTP2",
+      "iban": "PT45003506517264364179459",
+      "id": "Vendblend"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 2",
+    "description": "Compra Loja Cinaster",
+    "amount": 22.44,
+    "category": "Vestuário",
+    "createdAt": "2021-01-05",
+    "modality": "Débito",
+    "recipient": {
+      "swift": "CDCTPTP2",
+      "iban": "PT45003506517264364179459",
+      "id": "Myopium"
+    }
+  },
+  {
+    "accountNumber": "0121 0019 6520 0",
+    "description": "Compra Loja Zensure",
+    "amount": 51.37,
+    "category": "Entretenimento",
+    "createdAt": "2021-03-27",
+    "modality": "Débito",
+    "recipient": {
+      "swift": "CITIPTPX",
+      "iban": "PT86003506514389783173590",
+      "id": "Webiotic"
+    }
+  },
+  {
+    "accountNumber": "0121 0019 6520 0",
+    "description": "Débito Direto Aeora",
+    "amount": 46.14,
+    "category": "Restauração",
+    "createdAt": "2021-12-25",
+    "modality": "3x c/juros",
+    "recipient": {
+      "swift": "BESCPTPL",
+      "iban": "PT50003506512541199953760",
+      "id": "Namegen"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 3",
+    "description": "Transferência Entogrok",
+    "amount": 36.47,
+    "category": "Entretenimento",
+    "createdAt": "2021-02-20",
+    "modality": "Fim Mês",
+    "recipient": {
+      "swift": "IBNBPTP1",
+      "iban": "PT83003506512451233796616",
+      "id": "Singavera"
+    }
+  },
+  {
+    "accountNumber": "0892 1234 2021 2",
+    "description": "Compra Loja Norali",
+    "amount": 4.96,
+    "category": "Saúde",
+    "createdAt": "2021-07-13",
+    "modality": "3x c/juros",
+    "recipient": {
+      "swift": "BNPAPTPL",
+      "iban": "PT16003506516139143821136",
+      "id": "Danja"
+    }
+  },
+  {
+    "accountNumber": "0121 0019 6520 0",
+    "description": "Compra Portico",
+    "amount": 41.17,
+    "category": "Transportes",
+    "createdAt": "2021-08-12",
+    "modality": "Fim Mês",
+    "recipient": {
+      "swift": "CGDIPTPL",
+      "iban": "PT50003506512541199953760",
+      "id": "Centree"
+    }
+  },
+  {
+    "accountNumber": "0121 0019 6520 0",
+    "description": "Compra Loja Netplax",
+    "amount": 28.25,
+    "category": "Casa",
+    "createdAt": "2021-06-01",
+    "modality": "3x c/juros",
+    "recipient": {
+      "swift": "IBNBPTP1",
+      "iban": "PT45003506517264364179459",
+      "id": "Knowlysis"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 2",
+    "description": "Carregamento Gynko",
+    "amount": 62.09,
+    "category": "Restauração",
+    "createdAt": "2021-06-21",
+    "modality": "Fim Mês",
+    "recipient": {
+      "swift": "BESCPTPL",
+      "iban": "PT45003506517264364179459",
+      "id": "Ontagene"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 2",
+    "description": "Débito Direto Cytrek",
+    "amount": 79.85,
+    "category": "Saúde",
+    "createdAt": "2021-12-17",
+    "modality": "Débito",
+    "recipient": {
+      "swift": "BESCPTPL",
+      "iban": "PT86003506514389783173590",
+      "id": "Frenex"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 2",
+    "description": "Compra Loja Zanity",
+    "amount": 7.45,
+    "category": "Entretenimento",
+    "createdAt": "2021-05-12",
+    "modality": "Débito",
+    "recipient": {
+      "swift": "BNPAPTPL",
+      "iban": "PT86003506514389783173590",
+      "id": "Matrixity"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 3",
+    "description": "Compra Loja Darwinium",
+    "amount": 37.75,
+    "category": "Restauração",
+    "createdAt": "2021-05-27",
+    "modality": "12x c/juros",
+    "recipient": {
+      "swift": "CDCTPTP2",
+      "iban": "PT86003506514389783173590",
+      "id": "Oatfarm"
+    }
+  },
+  {
+    "accountNumber": "0121 0019 6520 0",
+    "description": "Carregamento Medmex",
+    "amount": 26.56,
+    "category": "Restauração",
+    "createdAt": "2021-10-27",
+    "modality": "3x c/juros",
+    "recipient": {
+      "swift": "BESCPTPL",
+      "iban": "PT45003506517264364179459",
+      "id": "Tubalum"
+    }
+  },
+  {
+    "accountNumber": "0121 0019 6520 0",
+    "description": "Pagamento Konnect",
+    "amount": 61.89,
+    "category": "Casa",
+    "createdAt": "2021-03-03",
+    "modality": "Fim Mês",
+    "recipient": {
+      "swift": "CGDIPTPL",
+      "iban": "PT16003506516139143821136",
+      "id": "Stralum"
+    }
+  },
+  {
+    "accountNumber": "0121 0019 6520 0",
+    "description": "Pagamento Acusage",
+    "amount": 4.47,
+    "category": "Transportes",
+    "createdAt": "2021-07-07",
+    "modality": "3x c/juros",
+    "recipient": {
+      "swift": "CDCTPTP2",
+      "iban": "PT45003506517264364179459",
+      "id": "Hinway"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 2",
+    "description": "Compra Loja Noralex",
+    "amount": 0.62,
+    "category": "Transportes",
+    "createdAt": "2021-08-19",
+    "modality": "12x c/juros",
+    "recipient": {
+      "swift": "CGDIPTPL",
+      "iban": "PT86003506514389783173590",
+      "id": "Indexia"
+    }
+  },
+  {
+    "accountNumber": "0892 1234 2021 2",
+    "description": "Transferência Nspire",
+    "amount": 30.03,
+    "category": "Saúde",
+    "createdAt": "2021-09-21",
+    "modality": "Débito",
+    "recipient": {
+      "swift": "BGALPTTG",
+      "iban": "PT45003506517264364179459",
+      "id": "Pawnagra"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 2",
+    "description": "Compra Comstruct",
+    "amount": 35.02,
+    "category": "Restauração",
+    "createdAt": "2021-12-25",
+    "modality": "6x c/juros",
+    "recipient": {
+      "swift": "BGALPTTG",
+      "iban": "PT45003506517264364179459",
+      "id": "Overplex"
+    }
+  },
+  {
+    "accountNumber": "0121 0019 6520 0",
+    "description": "Transferência Kage",
+    "amount": 26.46,
+    "category": "Casa",
+    "createdAt": "2021-10-31",
+    "modality": "Fim Mês",
+    "recipient": {
+      "swift": "CDCTPTP2",
+      "iban": "PT86003506514389783173590",
+      "id": "Ezent"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 3",
+    "description": "Pagamento Blanet",
+    "amount": 72.12,
+    "category": "Vestuário",
+    "createdAt": "2021-10-12",
+    "modality": "12x c/juros",
+    "recipient": {
+      "swift": "BESCPTPL",
+      "iban": "PT50003506512541199953760",
+      "id": "Insurity"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 3",
+    "description": "Débito Direto Remold",
+    "amount": 13.67,
+    "category": "Entretenimento",
+    "createdAt": "2021-07-18",
+    "modality": "12x c/juros",
+    "recipient": {
+      "swift": "BNPAPTPL",
+      "iban": "PT86003506514389783173590",
+      "id": "Progenex"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 2",
+    "description": "Pagamento Biflex",
+    "amount": 50.82,
+    "category": "Casa",
+    "createdAt": "2021-12-07",
+    "modality": "12x c/juros",
+    "recipient": {
+      "swift": "CITIPTPX",
+      "iban": "PT50003506512541199953760",
+      "id": "Xumonk"
+    }
+  },
+  {
+    "accountNumber": "0892 1234 2021 2",
+    "description": "Compra Exozent",
+    "amount": 20.02,
+    "category": "Entretenimento",
+    "createdAt": "2021-01-21",
+    "modality": "12x c/juros",
+    "recipient": {
+      "swift": "BNPAPTPL",
+      "iban": "PT45003506517264364179459",
+      "id": "Lyrichord"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 2",
+    "description": "Pagamento Techtrix",
+    "amount": 70.19,
+    "category": "Casa",
+    "createdAt": "2021-10-02",
+    "modality": "6x c/juros",
+    "recipient": {
+      "swift": "BNPAPTPL",
+      "iban": "PT16003506516139143821136",
+      "id": "Netbook"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 2",
+    "description": "Débito Direto Retrotex",
+    "amount": 15.14,
+    "category": "Saúde",
+    "createdAt": "2021-08-28",
+    "modality": "3x c/juros",
+    "recipient": {
+      "swift": "BESCPTPL",
+      "iban": "PT45003506517264364179459",
+      "id": "Qnekt"
+    }
+  },
+  {
+    "accountNumber": "0121 0019 6520 0",
+    "description": "Carregamento Signidyne",
+    "amount": 3.97,
+    "category": "Entretenimento",
+    "createdAt": "2021-12-25",
+    "modality": "Débito",
+    "recipient": {
+      "swift": "IBNBPTP1",
+      "iban": "PT45003506517264364179459",
+      "id": "Buzzness"
+    }
+  },
+  {
+    "accountNumber": "0892 1234 2021 2",
+    "description": "Compra Loja Assistia",
+    "amount": 28.08,
+    "category": "Casa",
+    "createdAt": "2021-07-25",
+    "modality": "Fim Mês",
+    "recipient": {
+      "swift": "CDCTPTP2",
+      "iban": "PT50003506512541199953760",
+      "id": "Manufact"
+    }
+  },
+  {
+    "accountNumber": "0121 0019 6520 0",
+    "description": "Compra Rotodyne",
+    "amount": 53.47,
+    "category": "Casa",
+    "createdAt": "2021-05-28",
+    "modality": "Débito",
+    "recipient": {
+      "swift": "IBNBPTP1",
+      "iban": "PT86003506514389783173590",
+      "id": "Entality"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 2",
+    "description": "Débito Direto Dogspa",
+    "amount": 41.59,
+    "category": "Restauração",
+    "createdAt": "2021-05-08",
+    "modality": "3x c/juros",
+    "recipient": {
+      "swift": "CITIPTPX",
+      "iban": "PT45003506517264364179459",
+      "id": "Temorak"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 3",
+    "description": "Compra Loja Geekola",
+    "amount": 0.79,
+    "category": "Entretenimento",
+    "createdAt": "2021-10-11",
+    "modality": "12x c/juros",
+    "recipient": {
+      "swift": "BNPAPTPL",
+      "iban": "PT45003506517264364179459",
+      "id": "Supremia"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 2",
+    "description": "Pagamento Momentia",
+    "amount": 37.72,
+    "category": "Restauração",
+    "createdAt": "2021-07-20",
+    "modality": "Débito",
+    "recipient": {
+      "swift": "CITIPTPX",
+      "iban": "PT45003506517264364179459",
+      "id": "Melbacor"
+    }
+  },
+  {
+    "accountNumber": "0892 1234 2021 2",
+    "description": "Compra Loja Duflex",
+    "amount": 18.08,
+    "category": "Restauração",
+    "createdAt": "2021-01-14",
+    "modality": "3x c/juros",
+    "recipient": {
+      "swift": "CGDIPTPL",
+      "iban": "PT45003506517264364179459",
+      "id": "Zaj"
+    }
+  },
+  {
+    "accountNumber": "0121 0019 6520 0",
+    "description": "Pagamento Avenetro",
+    "amount": 71.67,
+    "category": "Transportes",
+    "createdAt": "2021-01-22",
+    "modality": "3x c/juros",
+    "recipient": {
+      "swift": "BESCPTPL",
+      "iban": "PT83003506512451233796616",
+      "id": "Corpulse"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 3",
+    "description": "Compra Loja Geoform",
+    "amount": 57.69,
+    "category": "Restauração",
+    "createdAt": "2021-01-17",
+    "modality": "Débito",
+    "recipient": {
+      "swift": "CDCTPTP2",
+      "iban": "PT16003506516139143821136",
+      "id": "Unisure"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 3",
+    "description": "Compra Dymi",
+    "amount": 38.21,
+    "category": "Transportes",
+    "createdAt": "2021-05-04",
+    "modality": "3x c/juros",
+    "recipient": {
+      "swift": "BGALPTTG",
+      "iban": "PT45003506517264364179459",
+      "id": "Medcom"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 2",
+    "description": "Pagamento Ozean",
+    "amount": 44.04,
+    "category": "Restauração",
+    "createdAt": "2021-11-24",
+    "modality": "Débito",
+    "recipient": {
+      "swift": "CITIPTPX",
+      "iban": "PT50003506512541199953760",
+      "id": "Playce"
+    }
+  },
+  {
+    "accountNumber": "0121 0019 6520 0",
+    "description": "Carregamento Enaut",
+    "amount": 38.05,
+    "category": "Transportes",
+    "createdAt": "2021-06-28",
+    "modality": "3x c/juros",
+    "recipient": {
+      "swift": "CDCTPTP2",
+      "iban": "PT86003506514389783173590",
+      "id": "Applideck"
+    }
+  },
+  {
+    "accountNumber": "0892 1234 2021 2",
+    "description": "Débito Direto Netplode",
+    "amount": 56.85,
+    "category": "Entretenimento",
+    "createdAt": "2021-05-05",
+    "modality": "Débito",
+    "recipient": {
+      "swift": "CDCTPTP2",
+      "iban": "PT16003506516139143821136",
+      "id": "Grainspot"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 2",
+    "description": "Pagamento Kog",
+    "amount": 71.76,
+    "category": "Saúde",
+    "createdAt": "2021-04-01",
+    "modality": "3x c/juros",
+    "recipient": {
+      "swift": "BESCPTPL",
+      "iban": "PT86003506514389783173590",
+      "id": "Earthplex"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 2",
+    "description": "Débito Direto Xylar",
+    "amount": 63.72,
+    "category": "Casa",
+    "createdAt": "2021-09-23",
+    "modality": "Fim Mês",
+    "recipient": {
+      "swift": "BESCPTPL",
+      "iban": "PT50003506512541199953760",
+      "id": "Zeam"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 3",
+    "description": "Compra Cogentry",
+    "amount": 64.26,
+    "category": "Vestuário",
+    "createdAt": "2021-04-21",
+    "modality": "Débito",
+    "recipient": {
+      "swift": "CDCTPTP2",
+      "iban": "PT45003506517264364179459",
+      "id": "Mondicil"
+    }
+  },
+  {
+    "accountNumber": "0121 0019 6520 0",
+    "description": "Compra Loja Cablam",
+    "amount": 48.62,
+    "category": "Transportes",
+    "createdAt": "2021-07-24",
+    "modality": "12x c/juros",
+    "recipient": {
+      "swift": "BGALPTTG",
+      "iban": "PT45003506517264364179459",
+      "id": "Kaggle"
+    }
+  },
+  {
+    "accountNumber": "0121 0019 6520 0",
+    "description": "Compra Maroptic",
+    "amount": 9.32,
+    "category": "Restauração",
+    "createdAt": "2021-10-29",
+    "modality": "Débito",
+    "recipient": {
+      "swift": "CDCTPTP2",
+      "iban": "PT16003506516139143821136",
+      "id": "Quordate"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 2",
+    "description": "Transferência Kangle",
+    "amount": 38.91,
+    "category": "Casa",
+    "createdAt": "2021-03-28",
+    "modality": "3x c/juros",
+    "recipient": {
+      "swift": "CDCTPTP2",
+      "iban": "PT50003506512541199953760",
+      "id": "Cujo"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 2",
+    "description": "Pagamento Enthaze",
+    "amount": 78.19,
+    "category": "Casa",
+    "createdAt": "2021-12-29",
+    "modality": "3x c/juros",
+    "recipient": {
+      "swift": "IBNBPTP1",
+      "iban": "PT50003506512541199953760",
+      "id": "Digirang"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 3",
+    "description": "Pagamento Overfork",
+    "amount": 3.99,
+    "category": "Entretenimento",
+    "createdAt": "2021-09-22",
+    "modality": "Fim Mês",
+    "recipient": {
+      "swift": "IBNBPTP1",
+      "iban": "PT45003506517264364179459",
+      "id": "Typhonica"
+    }
+  },
+  {
+    "accountNumber": "0121 0019 6520 0",
+    "description": "Débito Direto Conjurica",
+    "amount": 51.68,
+    "category": "Casa",
+    "createdAt": "2021-02-07",
+    "modality": "6x c/juros",
+    "recipient": {
+      "swift": "BESCPTPL",
+      "iban": "PT86003506514389783173590",
+      "id": "Zensor"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 2",
+    "description": "Transferência Panzent",
+    "amount": 0.33,
+    "category": "Vestuário",
+    "createdAt": "2021-02-15",
+    "modality": "3x c/juros",
+    "recipient": {
+      "swift": "BNPAPTPL",
+      "iban": "PT50003506512541199953760",
+      "id": "Centrexin"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 2",
+    "description": "Pagamento Pathways",
+    "amount": 32.75,
+    "category": "Entretenimento",
+    "createdAt": "2021-11-22",
+    "modality": "6x c/juros",
+    "recipient": {
+      "swift": "CGDIPTPL",
+      "iban": "PT50003506512541199953760",
+      "id": "Solgan"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 2",
+    "description": "Pagamento Qualitex",
+    "amount": 38.94,
+    "category": "Restauração",
+    "createdAt": "2021-05-11",
+    "modality": "12x c/juros",
+    "recipient": {
+      "swift": "BGALPTTG",
+      "iban": "PT45003506517264364179459",
+      "id": "Comcur"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 3",
+    "description": "Compra Loja Exospeed",
+    "amount": 50.99,
+    "category": "Transportes",
+    "createdAt": "2021-09-14",
+    "modality": "6x c/juros",
+    "recipient": {
+      "swift": "BNPAPTPL",
+      "iban": "PT45003506517264364179459",
+      "id": "Aquazure"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 3",
+    "description": "Transferência Jetsilk",
+    "amount": 35.59,
+    "category": "Entretenimento",
+    "createdAt": "2021-03-06",
+    "modality": "Débito",
+    "recipient": {
+      "swift": "CITIPTPX",
+      "iban": "PT86003506514389783173590",
+      "id": "Rockyard"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 2",
+    "description": "Compra Ronbert",
+    "amount": 16.63,
+    "category": "Vestuário",
+    "createdAt": "2021-07-22",
+    "modality": "Fim Mês",
+    "recipient": {
+      "swift": "BGALPTTG",
+      "iban": "PT45003506517264364179459",
+      "id": "Petigems"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 2",
+    "description": "Débito Direto Vurbo",
+    "amount": 45.18,
+    "category": "Vestuário",
+    "createdAt": "2021-11-25",
+    "modality": "Fim Mês",
+    "recipient": {
+      "swift": "BNPAPTPL",
+      "iban": "PT50003506512541199953760",
+      "id": "Eventex"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 2",
+    "description": "Compra Loja Recognia",
+    "amount": 62.46,
+    "category": "Saúde",
+    "createdAt": "2021-08-15",
+    "modality": "Débito",
+    "recipient": {
+      "swift": "CITIPTPX",
+      "iban": "PT45003506517264364179459",
+      "id": "Zomboid"
+    }
+  },
+  {
+    "accountNumber": "0892 1234 2021 2",
+    "description": "Pagamento Snips",
+    "amount": 19.56,
+    "category": "Transportes",
+    "createdAt": "2021-03-22",
+    "modality": "6x c/juros",
+    "recipient": {
+      "swift": "CDCTPTP2",
+      "iban": "PT45003506517264364179459",
+      "id": "Intradisk"
+    }
+  },
+  {
+    "accountNumber": "0121 0019 6520 0",
+    "description": "Compra Sultrax",
+    "amount": 78.54,
+    "category": "Casa",
+    "createdAt": "2021-07-11",
+    "modality": "6x c/juros",
+    "recipient": {
+      "swift": "CDCTPTP2",
+      "iban": "PT50003506512541199953760",
+      "id": "Oulu"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 3",
+    "description": "Pagamento Endipin",
+    "amount": 30.17,
+    "category": "Restauração",
+    "createdAt": "2021-09-10",
+    "modality": "Débito",
+    "recipient": {
+      "swift": "IBNBPTP1",
+      "iban": "PT16003506516139143821136",
+      "id": "Glasstep"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 3",
+    "description": "Débito Direto Naxdis",
+    "amount": 51.32,
+    "category": "Transportes",
+    "createdAt": "2021-11-20",
+    "modality": "3x c/juros",
+    "recipient": {
+      "swift": "BGALPTTG",
+      "iban": "PT83003506512451233796616",
+      "id": "Bizmatic"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 2",
+    "description": "Compra Medalert",
+    "amount": 51.71,
+    "category": "Transportes",
+    "createdAt": "2021-10-27",
+    "modality": "3x c/juros",
+    "recipient": {
+      "swift": "CGDIPTPL",
+      "iban": "PT16003506516139143821136",
+      "id": "Roughies"
+    }
+  },
+  {
+    "accountNumber": "0121 0019 6520 0",
+    "description": "Débito Direto Magnafone",
+    "amount": 5.08,
+    "category": "Vestuário",
+    "createdAt": "2021-04-17",
+    "modality": "6x c/juros",
+    "recipient": {
+      "swift": "IBNBPTP1",
+      "iban": "PT86003506514389783173590",
+      "id": "Aquamate"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 3",
+    "description": "Pagamento Kozgene",
+    "amount": 50.29,
+    "category": "Transportes",
+    "createdAt": "2021-07-02",
+    "modality": "6x c/juros",
+    "recipient": {
+      "swift": "CGDIPTPL",
+      "iban": "PT86003506514389783173590",
+      "id": "Zork"
+    }
+  },
+  {
+    "accountNumber": "0121 0019 6520 0",
+    "description": "Débito Direto Biohab",
+    "amount": 73.05,
+    "category": "Casa",
+    "createdAt": "2021-01-12",
+    "modality": "3x c/juros",
+    "recipient": {
+      "swift": "CGDIPTPL",
+      "iban": "PT83003506512451233796616",
+      "id": "Xixan"
+    }
+  },
+  {
+    "accountNumber": "0121 0019 6520 0",
+    "description": "Compra Imageflow",
+    "amount": 75.72,
+    "category": "Entretenimento",
+    "createdAt": "2021-10-06",
+    "modality": "Débito",
+    "recipient": {
+      "swift": "BNPAPTPL",
+      "iban": "PT45003506517264364179459",
+      "id": "Pharmacon"
+    }
+  },
+  {
+    "accountNumber": "0121 0019 6520 0",
+    "description": "Compra Zytrek",
+    "amount": 39.39,
+    "category": "Entretenimento",
+    "createdAt": "2021-05-16",
+    "modality": "12x c/juros",
+    "recipient": {
+      "swift": "IBNBPTP1",
+      "iban": "PT45003506517264364179459",
+      "id": "Zoid"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 3",
+    "description": "Transferência Exoswitch",
+    "amount": 70.08,
+    "category": "Casa",
+    "createdAt": "2021-04-06",
+    "modality": "6x c/juros",
+    "recipient": {
+      "swift": "IBNBPTP1",
+      "iban": "PT50003506512541199953760",
+      "id": "Datacator"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 3",
+    "description": "Compra Quailcom",
+    "amount": 59.87,
+    "category": "Vestuário",
+    "createdAt": "2021-12-26",
+    "modality": "12x c/juros",
+    "recipient": {
+      "swift": "CDCTPTP2",
+      "iban": "PT50003506512541199953760",
+      "id": "Vicon"
+    }
+  },
+  {
+    "accountNumber": "0892 1234 2021 2",
+    "description": "Carregamento Buzzmaker",
+    "amount": 67.73,
+    "category": "Vestuário",
+    "createdAt": "2021-06-12",
+    "modality": "6x c/juros",
+    "recipient": {
+      "swift": "BGALPTTG",
+      "iban": "PT16003506516139143821136",
+      "id": "Tasmania"
+    }
+  },
+  {
+    "accountNumber": "0892 1234 2021 2",
+    "description": "Compra Loja Rocklogic",
+    "amount": 70.93,
+    "category": "Saúde",
+    "createdAt": "2021-07-11",
+    "modality": "12x c/juros",
+    "recipient": {
+      "swift": "BGALPTTG",
+      "iban": "PT16003506516139143821136",
+      "id": "Isoswitch"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 3",
+    "description": "Débito Direto Bittor",
+    "amount": 27.19,
+    "category": "Casa",
+    "createdAt": "2021-02-25",
+    "modality": "3x c/juros",
+    "recipient": {
+      "swift": "BNPAPTPL",
+      "iban": "PT45003506517264364179459",
+      "id": "Veraq"
+    }
+  },
+  {
+    "accountNumber": "0121 0019 6520 0",
+    "description": "Transferência Zoinage",
+    "amount": 21.98,
+    "category": "Casa",
+    "createdAt": "2021-11-28",
+    "modality": "12x c/juros",
+    "recipient": {
+      "swift": "CDCTPTP2",
+      "iban": "PT50003506512541199953760",
+      "id": "Zilencio"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 2",
+    "description": "Transferência Medesign",
+    "amount": 19.36,
+    "category": "Saúde",
+    "createdAt": "2021-07-11",
+    "modality": "Débito",
+    "recipient": {
+      "swift": "BNPAPTPL",
+      "iban": "PT86003506514389783173590",
+      "id": "Portalis"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 2",
+    "description": "Compra Quizmo",
+    "amount": 43.41,
+    "category": "Saúde",
+    "createdAt": "2021-10-03",
+    "modality": "3x c/juros",
+    "recipient": {
+      "swift": "BGALPTTG",
+      "iban": "PT86003506514389783173590",
+      "id": "Zuvy"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 3",
+    "description": "Débito Direto Parleynet",
+    "amount": 56.97,
+    "category": "Casa",
+    "createdAt": "2021-12-27",
+    "modality": "3x c/juros",
+    "recipient": {
+      "swift": "CGDIPTPL",
+      "iban": "PT50003506512541199953760",
+      "id": "Comtract"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 3",
+    "description": "Carregamento Combogen",
+    "amount": 29.79,
+    "category": "Restauração",
+    "createdAt": "2021-01-13",
+    "modality": "6x c/juros",
+    "recipient": {
+      "swift": "CDCTPTP2",
+      "iban": "PT16003506516139143821136",
+      "id": "Exospace"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 2",
+    "description": "Compra Endipine",
+    "amount": 70.11,
+    "category": "Transportes",
+    "createdAt": "2021-06-09",
+    "modality": "Débito",
+    "recipient": {
+      "swift": "BNPAPTPL",
+      "iban": "PT83003506512451233796616",
+      "id": "Lunchpod"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 3",
+    "description": "Carregamento Optique",
+    "amount": 38.57,
+    "category": "Transportes",
+    "createdAt": "2021-07-14",
+    "modality": "6x c/juros",
+    "recipient": {
+      "swift": "CGDIPTPL",
+      "iban": "PT45003506517264364179459",
+      "id": "Dognosis"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 2",
+    "description": "Débito Direto Viagrand",
+    "amount": 8.79,
+    "category": "Saúde",
+    "createdAt": "2021-12-11",
+    "modality": "3x c/juros",
+    "recipient": {
+      "swift": "CITIPTPX",
+      "iban": "PT83003506512451233796616",
+      "id": "Essensia"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 2",
+    "description": "Carregamento Digial",
+    "amount": 11.87,
+    "category": "Saúde",
+    "createdAt": "2021-12-09",
+    "modality": "6x c/juros",
+    "recipient": {
+      "swift": "CDCTPTP2",
+      "iban": "PT45003506517264364179459",
+      "id": "Xoggle"
+    }
+  },
+  {
+    "accountNumber": "0892 1234 2021 2",
+    "description": "Pagamento Corecom",
+    "amount": 54.66,
+    "category": "Saúde",
+    "createdAt": "2021-09-25",
+    "modality": "12x c/juros",
+    "recipient": {
+      "swift": "BGALPTTG",
+      "iban": "PT16003506516139143821136",
+      "id": "Fleetmix"
+    }
+  },
+  {
+    "accountNumber": "0892 1234 2021 2",
+    "description": "Compra Infotrips",
+    "amount": 54.87,
+    "category": "Casa",
+    "createdAt": "2021-05-12",
+    "modality": "12x c/juros",
+    "recipient": {
+      "swift": "BNPAPTPL",
+      "iban": "PT83003506512451233796616",
+      "id": "Liquicom"
+    }
+  },
+  {
+    "accountNumber": "0892 1234 2021 2",
+    "description": "Transferência Anocha",
+    "amount": 28.42,
+    "category": "Casa",
+    "createdAt": "2021-12-12",
+    "modality": "Débito",
+    "recipient": {
+      "swift": "CITIPTPX",
+      "iban": "PT50003506512541199953760",
+      "id": "Entropix"
+    }
+  },
+  {
+    "accountNumber": "0121 0019 6520 0",
+    "description": "Transferência Flyboyz",
+    "amount": 26.64,
+    "category": "Vestuário",
+    "createdAt": "2021-04-26",
+    "modality": "12x c/juros",
+    "recipient": {
+      "swift": "CGDIPTPL",
+      "iban": "PT50003506512541199953760",
+      "id": "Uberlux"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 2",
+    "description": "Carregamento Stucco",
+    "amount": 63.51,
+    "category": "Transportes",
+    "createdAt": "2021-05-02",
+    "modality": "Débito",
+    "recipient": {
+      "swift": "CITIPTPX",
+      "iban": "PT50003506512541199953760",
+      "id": "Exoteric"
+    }
+  },
+  {
+    "accountNumber": "0121 0019 6520 0",
+    "description": "Carregamento Vitricomp",
+    "amount": 52.93,
+    "category": "Casa",
+    "createdAt": "2021-12-23",
+    "modality": "6x c/juros",
+    "recipient": {
+      "swift": "CDCTPTP2",
+      "iban": "PT45003506517264364179459",
+      "id": "Cytrex"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 3",
+    "description": "Compra Loja Vortexaco",
+    "amount": 36.16,
+    "category": "Transportes",
+    "createdAt": "2021-11-26",
+    "modality": "Fim Mês",
+    "recipient": {
+      "swift": "CDCTPTP2",
+      "iban": "PT86003506514389783173590",
+      "id": "Accusage"
+    }
+  },
+  {
+    "accountNumber": "0121 0019 6520 0",
+    "description": "Compra Tetak",
+    "amount": 79.39,
+    "category": "Saúde",
+    "createdAt": "2021-12-13",
+    "modality": "12x c/juros",
+    "recipient": {
+      "swift": "CGDIPTPL",
+      "iban": "PT16003506516139143821136",
+      "id": "Poochies"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 2",
+    "description": "Débito Direto Lexicondo",
+    "amount": 37.88,
+    "category": "Restauração",
+    "createdAt": "2021-12-31",
+    "modality": "3x c/juros",
+    "recipient": {
+      "swift": "BNPAPTPL",
+      "iban": "PT45003506517264364179459",
+      "id": "Isosure"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 2",
+    "description": "Carregamento Insource",
+    "amount": 59.75,
+    "category": "Casa",
+    "createdAt": "2021-12-01",
+    "modality": "12x c/juros",
+    "recipient": {
+      "swift": "CITIPTPX",
+      "iban": "PT50003506512541199953760",
+      "id": "Gynk"
+    }
+  },
+  {
+    "accountNumber": "0121 0019 6520 0",
+    "description": "Pagamento Orboid",
+    "amount": 4.42,
+    "category": "Transportes",
+    "createdAt": "2021-08-26",
+    "modality": "Débito",
+    "recipient": {
+      "swift": "BGALPTTG",
+      "iban": "PT50003506512541199953760",
+      "id": "Reversus"
+    }
+  },
+  {
+    "accountNumber": "0121 0019 6520 0",
+    "description": "Transferência Zaphire",
+    "amount": 2.85,
+    "category": "Transportes",
+    "createdAt": "2021-09-04",
+    "modality": "Fim Mês",
+    "recipient": {
+      "swift": "BNPAPTPL",
+      "iban": "PT50003506512541199953760",
+      "id": "Emtrak"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 2",
+    "description": "Compra Loja Corepan",
+    "amount": 15.48,
+    "category": "Vestuário",
+    "createdAt": "2021-12-11",
+    "modality": "Débito",
+    "recipient": {
+      "swift": "CDCTPTP2",
+      "iban": "PT16003506516139143821136",
+      "id": "Anacho"
+    }
+  },
+  {
+    "accountNumber": "0892 1234 2021 2",
+    "description": "Carregamento Octocore",
+    "amount": 65.44,
+    "category": "Transportes",
+    "createdAt": "2021-09-19",
+    "modality": "12x c/juros",
+    "recipient": {
+      "swift": "CITIPTPX",
+      "iban": "PT16003506516139143821136",
+      "id": "Bitrex"
+    }
+  },
+  {
+    "accountNumber": "2020 1603 9408 3",
+    "description": "Compra Loja Geeketron",
+    "amount": 5.34,
+    "category": "Restauração",
+    "createdAt": "2021-12-11",
+    "modality": "3x c/juros",
+    "recipient": {
+      "swift": "BGALPTTG",
+      "iban": "PT45003506517264364179459",
+      "id": "Exosis"
+    }
+  }
+]
